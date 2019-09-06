@@ -1,0 +1,91 @@
+
+	"duskbringer_rune_w_1_arcana1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"duskbringer/duskbringer_rune_w_1_arcana"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_ARCANA_W1_ADD_DMG_PER_ATT_PER_LEVEL * 100 %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_w_2_arcana1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"duskbringer/duskbringer_rune_w_2_arcana"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_ARCANA_W2_ARMOR %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% DUSKBRINGER_ARCANA_W2_MAGIC_PURE_RES_PER_ARMOR * 100 %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_w_3_arcana1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"duskbringer/duskbringer_rune_w_3_arcana"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_ARCANA_W3_PROC_CHANCE %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_w_4_arcana1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"duskbringer/duskbringer_rune_w_4_arcana"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_ARCANA_W4_ATT_FLAT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% DUSKBRINGER_ARCANA_W4_ATT_PCT %>"
+			}
+		}
+	}
+

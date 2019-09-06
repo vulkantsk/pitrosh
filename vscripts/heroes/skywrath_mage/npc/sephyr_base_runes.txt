@@ -1,0 +1,377 @@
+
+	"sephyr_rune_q_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_q_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_Q1_INT_BONUS %>"
+			}
+		}
+	}
+
+	"sephyr_rune_q_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_q_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_Q2_POSTMIT * 100 %>"
+			}
+		}
+	}
+
+	"sephyr_rune_q_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_q_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_Q3_STACKS %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SEPHYR_Q3_HOLY_AMP_PCT %>"
+			}
+		}
+	}
+
+	"sephyr_rune_q_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_q_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_Q4_HOLY_AMP_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SEPHYR_Q4_HOLY_TO_ATT_BONUS_PCT %>"
+			}
+		}
+	}
+
+	"sephyr_rune_w_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_w_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SEPHYR_W1_INT_TO_MANA_REGEN_PCT %>"
+			}
+		}
+	}
+
+	"sephyr_rune_w_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_w_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SEPHYR_W2_CRIT_BONUS_PCT %>"
+			}
+		}
+	}
+
+	"sephyr_rune_w_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_w_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_W3_ATTACK_TO_DAMAGE_PCT %>"
+			}
+		}
+	}
+
+	"sephyr_rune_w_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_w_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SEPHYR_W4_WIND_AMP_PCT %>"
+			}
+		}
+	}
+
+	"sephyr_rune_e_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_e_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_E1_BOUNCE_CHANCE %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SEPHYR_E1_DAMAGE %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"3"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"				"12"
+			}
+		}
+	}
+
+	"sephyr_rune_e_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_e_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_E2_BONUS_ATTACK_DAMAGE %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SEPHYR_E2_ATTACK_TO_DAMAGE_PCT %>"
+			}
+		}
+	}
+
+	"sephyr_rune_e_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_e_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SEPHYR_E3_BASE_ATTACK_DAMAGE_PER_AGI %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SEPHYR_E3_BONUS_PUCK_DAMAGE_PER_AGI %>"
+			}
+		}
+	}
+
+	"sephyr_rune_e_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_e_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SEPHYR_E4_STRAFE_SPEED %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SEPHYR_E4_STRAFE_DISTANCE %>"
+			}
+		}
+	}
+
+	"sephyr_rune_r_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_r_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_R1_HP_REGEN_PER_LVL %>"
+			}
+		}
+	}
+
+	"sephyr_rune_r_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_r_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_R2_ATT_SPEED_SLOW %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SEPHYR_R2_MS_SPEED_SLOW %>"
+			}
+		}
+	}
+
+	"sephyr_rune_r_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_r_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_R3_MOVESPEED %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SEPHYR_R3_STRAFE_SPEED %>"
+			}
+		}
+	}
+
+	"sephyr_rune_r_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"sephyr/sephyr_rune_r_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SEPHYR_R4_BONUS_INT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SEPHYR_R4_BONUS_AGI %>"
+			}
+		}
+	}
+

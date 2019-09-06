@@ -1,0 +1,99 @@
+
+	"solunia_rune_r_1_arcana2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_1_arcana2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_ARCANA_R1_MIN %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SOLUNIA_ARCANA_R1_MAX %>"
+			}
+		}
+	}
+
+	"solunia_rune_r_2_arcana2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_2_arcana2"
+		"MaxLevel"				"20"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_ARCANA_R2_BURN_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SOLUNIA_ARCANA_R2_DUAL_BURN_PCT %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"2"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_two"			"9"
+			}
+		}
+	}
+
+	"solunia_rune_r_3_arcana2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_3_arcana2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_ARCANA_R3_DURATION %>"
+			}
+		}
+	}
+
+	"solunia_rune_r_4_arcana2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_4_arcana2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_ARCANA_R4_ELEM_AMP_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SOLUNIA_ARCANA_R4_ATTRIBUTES %>"
+			}
+		}
+	}
+

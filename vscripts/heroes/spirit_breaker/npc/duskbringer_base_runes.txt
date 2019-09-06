@@ -1,0 +1,502 @@
+
+	"duskbringer_rune_q_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_q_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_Q1_DMG_PER_STACK %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% DUSKBRINGER_Q1_DMG_PER_AGI_PER_STACK %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"1"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"13"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_two"			"2"
+			}
+		}
+	}
+
+	"duskbringer_rune_q_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_q_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_Q2_ITEM_PCT * 100 %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_q_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_q_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_Q3_ADD_DMG_PCT_MAX * 100 %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_q_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_q_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_Q4_ADD_DMG_PCT * 100 %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% DUSKBRINGER_Q4_ADD_RADIUS %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_w_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"night_stalker_void_alt"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_W1_DMG_PER_ATT * 100 %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"13"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"2"
+			}
+		}
+	}
+
+	"duskbringer_rune_w_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_w_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_W2_MAG_RES_RED %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_w_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"spectre_dispersion"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_W3_HEAL %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_w_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_w_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_W4_POSTMIT * 100 %>"
+			}
+		}
+		"Modifiers"
+		{
+			"modifier_duskbringer_rune_w_4_visible"
+			{
+				"Passive"			"0"
+				"IsHidden"			"0"
+				"IsDebuff"			"1"
+				"IsStunDebuff"			"1"
+				"OnCreated"
+				{
+					"RunScript"
+					{
+						"ScriptFile"	"heroes/spirit_breaker/revenant_strikes.lua"
+						"Function"		"AmplifyDamageParticle"
+					}
+				}
+
+				"OnDestroy"
+				{
+					"RunScript"
+					{
+						"ScriptFile"	"heroes/spirit_breaker/revenant_strikes.lua"
+						"Function"		"EndAmplifyDamageParticle"
+					}
+				}
+			}
+			"modifier_duskbringer_rune_w_4_invisible"
+			{
+				"Passive"			"0"
+				"IsHidden"			"1"
+				"IsDebuff"			"1"
+				"IsStunDebuff"			"1"
+				"Properties"
+				{
+					"MODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS" "-120"
+				}
+			}
+		}
+	}
+
+	"duskbringer_rune_e_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"spirit_breaker_empowering_haste"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_E1_ATT_DMG %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% DUSKBRINGER_E1_ARMOR %>"
+			}
+		}
+		"Modifiers"
+		{
+			"modifier_duskbringer_rune_e_1_passive"
+			{
+				"Passive"			"1"
+				"IsHidden"			"0"
+				"IsDebuff"			"0"
+				"Attributes"		"MODIFIER_ATTRIBUTE_PERMANENT"
+				"ThinkInterval"  	"0.03"
+				"OnIntervalThink"
+				{
+					"RunScript"
+					{
+						"ScriptFile"	"heroes/spirit_breaker/duskbringer_3_e.lua"
+						"Function"		"duskbringer_rune_e_1_think"
+					}
+				}
+			}
+			"modifier_duskbringer_rune_e_1_effect"
+			{
+				"IsBuff"	"1"
+				"IsHidden"	"0"
+				"Properties"
+				{
+					"MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE" "%property_one"
+					"MODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS"	"%property_two"
+				}
+				"OnDestroy"
+				{
+					"RunScript"
+					{
+						"ScriptFile"	"heroes/spirit_breaker/specter_rush.lua"
+						"Function"		"phantom_pace_duration_end"
+						"target"		"TARGET"
+					}
+				}
+			}
+		}
+	}
+
+	"duskbringer_rune_e_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_e_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% DUSKBRINGER_E2_DUR %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one_base"		"<% DUSKBRINGER_E2_BASE_DUR %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_e_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_e_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_E3_PROC_CHANCE %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_e_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_e_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% DUSKBRINGER_E4_DUR %>"
+			}
+		}
+	}
+
+	"duskbringer_rune_r_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_r_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_R1_DMG_PER_DMG * 100 %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"4"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"13"
+			}
+		}
+	}
+
+	"duskbringer_rune_r_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"spectre_spectral_dagger"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% DUSKBRINGER_R2_POSTMIT * 100 %>"
+			}
+		}
+		"Modifiers"
+		{
+			"modifier_duskbringer_rune_r_2_visible"
+			{
+				"IsBuff"		"1"
+	        	"IsHidden"		"0"
+				"IsPurgable"	"0"
+				"TextureName"	"spectre_spectral_dagger"
+			}
+			"modifier_duskbringer_rune_r_2_invisible"
+			{
+				"IsBuff"		"1"
+	        	"IsHidden"		"1"
+				"IsPurgable"	"0"
+			}
+		}
+	}
+
+	"duskbringer_rune_r_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_rune_r_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% DUSKBRINGER_R3_ATT_DMG_PCT %>"
+			}
+		}
+		"Modifiers"
+		{
+			"modifier_duskbringer_rune_r_3"
+			{
+				"Passive"			"0"
+				"IsHidden"			"0"
+				"IsDebuff"			"0"
+				"EffectName"		"particles/items2_fx/satanic_buff.vpcf"
+				"EffectAttachType"	"attach_attack1"
+				"Properties"
+				{
+					"MODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE" "%property_one"
+				}
+			}
+		}
+	}
+
+	"duskbringer_rune_r_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"rpc/duskbringer_r_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% DUSKBRINGER_R4_GHOST_PCT_PER_STR * 100 * 10 %>"
+			}
+		}
+	}
+

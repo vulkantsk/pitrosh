@@ -1,0 +1,468 @@
+
+	"mountain_protector_rune_q_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_q_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"5"
+			}
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"-6"
+			}
+		}
+	}
+
+	"mountain_protector_rune_q_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_q_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_Q2_DMG_PCT %>"
+			}
+		}
+	}
+
+	"mountain_protector_rune_q_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"earthshaker_aftershock"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"10"
+			}
+		}
+	}
+
+	"mountain_protector_rune_q_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"razor/severing_lash/razor_plasma_field"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_Q4_DIST %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"1"
+			}
+		}
+	}
+
+	"mountain_protector_rune_w_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_rune_w_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_W1_HP_REGEN_PERCENT %>"
+			}
+		}
+	}
+
+	"mountain_protector_rune_w_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_w_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_W2_POSTMIT_PCT %>"
+			}
+		}
+	}
+
+	"mountain_protector_rune_w_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_w_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_W3_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"2"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"1"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_two"			"3"
+			}
+		}
+	}
+
+	"mountain_protector_rune_w_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_w_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_W4 %>"
+			}
+		}
+	}
+
+	"mountain_protector_rune_e_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"earthshaker/sltv__earthshaker_ability_icons/earthshaker_fissure"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_E1_DMG_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one_base"		"<% MOUNTAIN_PROTECTOR_E1_BASE %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% MOUNTAIN_PROTECTOR_E1_STUN_DURATION %>"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_three"		"<% MOUNTAIN_PROTECTOR_E1_RADIUS %>"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_three_base"	"<% MOUNTAIN_PROTECTOR_E1_RADIUS_BASE %>"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"<% BASE_ABILITY_R %>"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"<% RPC_ELEMENT_EARTH %>"
+			}
+			"08"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_two"			"<% RPC_ELEMENT_FIRE %>"
+			}
+		}
+	}
+
+	"mountain_protector_rune_e_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"phoenix_icarus_dive_stop"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"120"
+			}
+		}
+		"Modifiers"
+		{
+			"modifier_mountain_protector_rune_e_2"
+			{
+				"Passive"			"0"
+				"IsHidden"			"0"
+				"IsDebuff"			"0"
+
+
+			}
+		}
+	}
+
+	"mountain_protector_rune_e_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"earthshaker/sltv__earthshaker_ability_icons/earthshaker_aftershock"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_E3_AMP_PCT %>"
+			}
+		}
+	}
+
+	"mountain_protector_rune_e_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"legion_commander_duel"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_E4_BASE_ATT_DMG %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% MOUNTAIN_PROTECTOR_E4_BAD * 100 %>"
+			}
+		}
+	}
+
+	"mountain_protector_rune_r_1"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"magnataur_shockwave_alt"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_R1_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"1"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"4"
+			}
+		}
+	}
+
+	"mountain_protector_rune_r_2"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_r_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% MOUNTAIN_PROTECTOR_R2_BASE_DMG %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% MOUNTAIN_PROTECTOR_R2_STRENGTH_PER_STACK %>"
+			}
+		}
+		"Modifiers"
+		{
+			"modifier_mountain_protector_rune_r_2_visible"
+			{
+				"Passive"			"0"
+				"IsHidden"			"0"
+				"IsDebuff"			"0"
+			}
+			"modifier_mountain_protector_rune_r_2_invisible"
+			{
+				"Passive"			"0"
+				"IsHidden"			"1"
+				"IsDebuff"			"0"
+				
+				"Properties"
+				{
+					"MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE" "%property_one"
+				}
+			}
+		}
+	}
+
+	"mountain_protector_rune_r_3"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_r_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"5000"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"5"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"4"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"2"
+			}
+		}
+	}
+
+	"mountain_protector_rune_r_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"mountain_protector/mountain_protector_r_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"0.05"
+			}
+		}
+	}
+

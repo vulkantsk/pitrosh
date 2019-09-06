@@ -1,0 +1,168 @@
+
+		
+		"serengaard_leaderboard_title"									"防守地图排行榜"
+
+		"serengaard_leaderboard_7days"									"七天内"
+		"serengaard_leaderboard_month"									"本月"
+		"serengaard_leaderboard_all_time"								"全部时间"			
+
+		"DOTA_Tooltip_ability_item_serengaard_sunstone"					"防守图之太阳石"
+		"item_serengaard_sunstone_desc"									"在传说难度下，在第一波敌人之前使用，将直接开启无尽模式。"
+
+		"battle_of_serengaard"											"防守之战"
+		"wave_starting_timer"											"开始"
+		"wave_name"														"波"
+		"enemies_slain"													"击败敌人"
+		"wave_spawning"													"敌人来袭"
+
+		"rpc_serengaard_tower"											"龙之塔"
+		"serengaard_ancient_guardian"									"太阳守卫"
+
+		"rpc_serengaard_barracks"										"太阳兵栈"
+
+		"serengaard_ranger"												"太阳游侠"
+
+		"rpc_serengaard_teleporter"										"传送点"
+
+		"serengaard_knight"												"没充值的圣斗士"
+
+		"rpc_serengaard_ancient"										"守卫雅典娜"
+
+		"DOTA_Tooltip_ability_serengaard_sun_guardian_ability"			"太阳守卫"
+		"DOTA_Tooltip_ability_serengaard_sun_guardian_ability_Description"		"被动增加生命回复."
+		"DOTA_Tooltip_ability_serengaard_sun_guardian_ability_health_regen_pct"	"每秒生命回复 %:"
+
+		"DOTA_Tooltip_modifier_teleporter_aura"							"传送"
+		"DOTA_Tooltip_modifier_teleporter_aura_Description"				"右键点击地图上任意处，在0.5秒的延迟后传送至目标区域."
+	
+		"DOTA_Tooltip_ability_serengaard_teleporter_ability"			"传送"
+		"DOTA_Tooltip_ability_serengaard_teleporter_ability_Description"	"当站在传送点附近时, 右键点击800范围外的地图上任意处，能在0.5秒的延迟后传送至目标区域."
+	
+		"dark_fighter_serengaard"										"黑暗战士"
+		"DOTA_Tooltip_ability_ursa_overpower_no_head_attachment"		"too op"
+		"DOTA_Tooltip_ability_ursa_overpower_no_head_attachment_Description"	"大量增加攻击速度"
+
+		"serengaard_freeze_fiend"										"寒冰恶魔"
+
+		"DOTA_Tooltip_ability_freeze_fiend_crystal_nova" 				"冰霜新星"
+		"DOTA_Tooltip_ability_freeze_fiend_crystal_nova_Description"	"召唤寒风打击目标区域, 对范围内的敌人造成伤害并减速."
+		"DOTA_Tooltip_ability_freeze_fiend_crystal_nova_movespeed_slow"	"移动速度减少 %:"
+		"DOTA_Tooltip_ability_freeze_fiend_crystal_nova_attackspeed_slow"	"攻击速度减少:"
+		"DOTA_Tooltip_ability_freeze_fiend_crystal_nova_duration"			"减速时间:"
+
+		"serengaard_icy_venge"											"冰霜复仇女神"
+
+		"DOTA_Tooltip_ability_serengaard_wave_of_terror"				"恐怖波动"
+		"DOTA_Tooltip_ability_serengaard_wave_of_terror_Description"		"发出一阵邪恶的嚎叫，对路径上的敌人造成伤害并降低他们的护甲."
+		"DOTA_Tooltip_ability_serengaard_wave_of_terror_armor_reduction"	"护甲降低:"
+		"DOTA_Tooltip_ability_serengaard_wave_of_terror_tooltip_duration"	"护甲降低时间:"
+
+		"DOTA_Tooltip_ability_serengaard_ice_vortex"					"冰霜漩涡"
+		"DOTA_Tooltip_ability_serengaard_ice_vortex_Description"		"创造一个寒冰能量的漩涡，降低范围内敌人的移动速度和魔法抗性."
+		"DOTA_Tooltip_ability_serengaard_ice_vortex_movement_speed_pct"	"移动速度减少:"
+		"DOTA_Tooltip_ability_serengaard_ice_vortex_spell_resist_pct"	"魔法抗性减少:"
+
+		"DOTA_Tooltip_ability_creature_acid_spray"						"残毒爆发"
+		"DOTA_Tooltip_ability_creature_acid_spray_Description"			"死亡时爆炸并留下一片剧毒区域.区域内的敌人护甲降低并受到持续伤害"
+		"DOTA_Tooltip_ability_creature_acid_spray_damage"				"每秒伤害:"
+		"DOTA_Tooltip_ability_creature_acid_spray_armor_reduction"		"护甲减少:"
+
+		"DOTA_Tooltip_ability_creature_acid_spray"						"残毒爆发"
+		"DOTA_Tooltip_ability_creature_acid_spray_Description"			"死亡时爆炸并留下一片剧毒区域.区域内的敌人护甲降低并受到持续伤害."
+		"DOTA_Tooltip_ability_creature_acid_spray_damage"				"每秒伤害:"
+		"DOTA_Tooltip_ability_creature_acid_spray_armor_reduction"		"护甲减少:"
+
+		"DOTA_Tooltip_ability_creature_acid_spray_yellow"				"残毒爆发"
+		"DOTA_Tooltip_ability_creature_acid_spray_Description"			"死亡时爆炸并留下一片剧毒区域.区域内的敌人护甲降低并受到持续伤害"
+		"DOTA_Tooltip_ability_creature_acid_spray_damage"				"每秒伤害:"
+		"DOTA_Tooltip_ability_creature_acid_spray_armor_reduction"		"护甲减少:"
+
+		"serengaard_hook_flinger"										"憎恶屠夫"
+
+		"DOTA_Tooltip_ability_custom_meat_hook"							"肉钩"
+		"DOTA_Tooltip_ability_custom_meat_hook_Description"				"向目标地点投掷一个血腥的钩子，伤害并钩回接触到的第一个英雄."
+		"DOTA_Tooltip_ability_custom_meat_hook_damage"					"肉钩伤害:"
+
+		"serengaard_antimage"											"时间徜徉者"
+
+		"DOTA_Tooltip_ability_serengaard_antimage_blink_custom"				"闪烁"
+		"DOTA_Tooltip_ability_serengaard_antimage_blink_custom_Description"	"瞬间移动至目标地点."
+
+		"serengaard_sand_king"											"沙漠之蝎"
+
+		"DOTA_Tooltip_ability_serengaard_burrowstrike"					"掘地穿刺"
+		"DOTA_Tooltip_ability_serengaard_burrowstrike_Description"		"向前穿刺，对路径上的敌人造成眩晕."
+		"DOTA_Tooltip_ability_serengaard_burrowstrike_tooltip_range"	"施法范围:"
+
+		"DOTA_Tooltip_ability_serengaard_sandking_ai"					"沙尘暴"
+		"DOTA_Tooltip_ability_serengaard_sandking_ai_Description"		"当低于50%的生命值时，躲进沙尘暴，获得魔法免疫，100%的闪避并回复生命值."
+
+		"serengaard_wandering_mage"										"Wandering Mage"
+
+		"DOTA_Tooltip_ability_wandering_mage_blast"						"Illumination Blast"
+		"DOTA_Tooltip_ability_wandering_mage_blast_Description"			"Charges up your staff with surrounding light and fire an army of illuminated horses toward the target location. More damage is dealt based on the duration of the charge up."
+		"DOTA_Tooltip_ability_wandering_mage_blast_damage_per_second"	"DAMAGE CHARGED PER SECOND:"
+	
+		"experimental_minion"											"Experimental Minion"
+
+		"DOTA_Tooltip_ability_experimental_chronosphere"				"Arcane Sphere"
+		"DOTA_Tooltip_ability_experimental_chronosphere_Description"	"Create a small pocket of warped space that freezes enemies who step inside."
+
+		"DOTA_Tooltip_ability_serengaard_experimental_minion_ai"		"Arcane Step"
+		"DOTA_Tooltip_ability_serengaard_experimental_minion_ai_Description"	"Passively increases evasion"
+		"DOTA_Tooltip_ability_serengaard_experimental_minion_ai_evasion"	"EVASION:"		
+
+		"serengaard_neverlord"											"Neverlord Raider"
+
+		"DOTA_Tooltip_ability_serengaard_boss_mega_raze"				"Megaraze"
+		"DOTA_Tooltip_ability_serengaard_boss_mega_raze_Description"	"Create a wild pattern of shadow razes around the caster"
+		"DOTA_Tooltip_ability_serengaard_boss_mega_raze_damage"			"DAMAGE:"
+
+		"DOTA_Tooltip_ability_forest_boss_dive"							"Shadow Dive"
+		"DOTA_Tooltip_ability_forest_boss_dive_Description"				"Dash forward."
+
+		"DOTA_Tooltip_ability_goremaw_electricity"						"Thunder Charge"
+		"DOTA_Tooltip_ability_goremaw_electricity_Description"			"Channel electric beams that zap nearby enemies"
+		"DOTA_Tooltip_ability_goremaw_electricity_damage"				"DAMAGE:"
+
+		"DOTA_Tooltip_ability_goremaw_battle_hunger"					"Combat Rage"
+		"DOTA_Tooltip_ability_goremaw_battle_hunger_Description"		"Applies a 5 second buff that increases armor, attackspeed, and movespeed."
+		"DOTA_Tooltip_ability_goremaw_battle_hunger_armor_bonus"		"ARMOR BONUS:"
+		"DOTA_Tooltip_ability_goremaw_battle_hunger_movespeed"			"MOVEPEED:"
+		"DOTA_Tooltip_ability_goremaw_battle_hunger_attackspeed"		"ATTACKSPEED:"
+
+		"serengaard_siege_archer"										"Wastelands Archer"
+
+		"DOTA_Tooltip_ability_zombie_colors"							"Rainbow Corpse"
+		"DOTA_Tooltip_ability_zombie_colors_damage"						"DAMAGE:"
+
+		"amber_spider_queen"											"Amber Spider Queen"
+
+		"DOTA_Tooltip_ability_amber_spider_ai"							"Amber Venom Bite"
+		"DOTA_Tooltip_ability_amber_spider_ai_Description"				"Attacks slow enemies for 3 seconds."
+
+		"DOTA_Tooltip_ability_betrayer_of_time_ability"					"Assault of Chronicius"
+		"DOTA_Tooltip_ability_betrayer_of_time_ability_Description"		"Attacks on enemies additionally launch 3 projectiles that slow enemies that are hit."
+
+		"DOTA_Tooltip_ability_conjured_tide_ability"					"Tidal Assault"
+		"DOTA_Tooltip_ability_conjured_tide_ability_Description"		"Attacks reduce enemies attack damage."
+		"DOTA_Tooltip_ability_conjured_tide_ability_damage_loss"		"BASE DAMAGE REDUCTION:"
+		"DOTA_Tooltip_ability_conjured_tide_ability_damage_loss_pct"	"ATTACK DAMAGE REDUCTION %:"
+
+		"DOTA_Tooltip_ability_mines_boss_thunder_storm"					"Thunder Storm"
+		"DOTA_Tooltip_ability_mines_boss_thunder_storm_Description"		"Conujure violent storm, dropping lightning bolts around the caster."
+		"DOTA_Tooltip_ability_mines_boss_thunder_storm_damage"			"DAMAGE:"
+
+		"DOTA_Tooltip_ability_mines_boss_dive"							"Baron Dive"
+
+		"DOTA_Tooltip_ability_mines_boss_passive"						"Thunderstrike"
+		"DOTA_Tooltip_ability_mines_boss_passive_Description"			"Attacks slow for 0.4 seconds."
+
+		"DOTA_Tooltip_ability_mines_boss_illusions"						"Lightning Replicate"
+
+		"serengaard_normal_complete"									"Normal Mode Clear! Use Oracle to save character"
+		"serengaard_elite_complete"										"Elite Mode Clear! Use Oracle to save character"
+
+		"DOTA_Tooltip_ability_serengaard_midnight_pulse"				"Midnight Pulse"
+		"DOTA_Tooltip_ability_serengaard_midnight_pulse_Description"	"Creates a patch of darkness that deals a % of the target's max HP each second."
+		"DOTA_Tooltip_ability_serengaard_midnight_pulse_damage_percent"			"DAMAGE % OF MAX HEALTH:"

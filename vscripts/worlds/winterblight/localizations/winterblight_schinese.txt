@@ -1,0 +1,1278 @@
+
+		//雪图事件
+
+		"descent_of_winterblight_aertega"							"艾特嘎"
+		"descent_of_winterblight_torturok"							"托特洛克"
+		"descent_of_winterblight_ozubu"								"奥祖布"
+
+		"ozubu_spiderling"											"冰晶蜘蛛"
+
+		"DOTA_Tooltip_ability_winterblight_aertega_passive"			"冰晶毒蛇"
+		"DOTA_Tooltip_ability_winterblight_aertega_passive_Description"	"攻击在冰中爆炸，造成范围伤害和减速."	
+		"DOTA_Tooltip_ability_winterblight_aertega_passive_damage"	"伤害:"
+		"DOTA_Tooltip_ability_winterblight_aertega_passive_ms_loss"	"移动速度降低:"
+
+		"DOTA_Tooltip_ability_aertega_frost_nova"					"冰霜之星"
+		"DOTA_Tooltip_ability_aertega_frost_nova_Description"		"在一个3秒的引导之后，一股巨大的碎冰浪潮在2000半径范围内冻结敌人."
+		"DOTA_Tooltip_ability_aertega_frost_nova_damage"			"伤害:"
+		"DOTA_Tooltip_ability_aertega_frost_nova_freeze_duration"	"冻结时间:"
+
+		"DOTA_Tooltip_modifier_aertega_frost_nova"					"冰霜之星"
+		"DOTA_Tooltip_modifier_aertega_frost_nova_Description"		"绝对冷冻"
+
+		"DOTA_Tooltip_ability_winterblight_torturok_passive"		"冬日打击"
+		"DOTA_Tooltip_ability_winterblight_torturok_passive_Description"	"所有的伤害都会立即被冰弹反击，造成伤害和减速"
+		"DOTA_Tooltip_ability_winterblight_torturok_passive_damage"			"伤害:"
+		"DOTA_Tooltip_ability_winterblight_torturok_passive_ms_loss"		"冰冻后降低移动速度:"
+		"DOTA_Tooltip_ability_winterblight_torturok_passive_as_loss"		"冰冻后降低攻击速度:"
+
+		"DOTA_Tooltip_ability_torturok_comet"						"跳跃"
+		"DOTA_Tooltip_ability_torturok_comet_Description"			"跳向目标位置"
+
+		"DOTA_Tooltip_ability_torturok_aura"						"霜寒光环"
+		"DOTA_Tooltip_ability_torturok_aura_Description"			"800范围内的敌人在移动时会受到伤害."
+	"DOTA_Tooltip_ability_torturok_aura_damage_per_distance"	"每一点距离伤害:"
+
+		"DOTA_Tooltip_modifier_torturok_aura_effect"				"霜寒光环"
+		"DOTA_Tooltip_modifier_torturok_aura_effect_Description"	"在移动时受到伤害"
+
+		"DOTA_Tooltip_ability_ozubu_passive"						"极致新星"
+		"DOTA_Tooltip_ability_ozubu_passive_Description"			"施法者周围不断发生冰冻爆炸."
+		"DOTA_Tooltip_ability_ozubu_passive_damage"					"伤害:"
+		"DOTA_Tooltip_ability_ozubu_passive_ms_loss"				"移动速度降低:"
+		"DOTA_Tooltip_ability_ozubu_passive_as_loss"				"攻击速度降低:"
+
+		"DOTA_Tooltip_ability_winterblight_ozubu_ice_venom"			"冰毒咬伤"
+		"DOTA_Tooltip_ability_winterblight_ozubu_ice_venom_Description"	"对目标造成伤害并向其转移1个负的减益."
+		"DOTA_Tooltip_ability_winterblight_ozubu_ice_venom_damage"	"伤害:"
+
+		"DOTA_Tooltip_ability_ozubu_spiderling_passive"				"冰毒咬伤"
+		"DOTA_Tooltip_ability_ozubu_spiderling_passive_Description"	"在攻击时向目标转移1个负面减益。同时也会留下一个每0.1秒造成伤害的毒药释放效果."
+		
+		"DOTA_Tooltip_modifier_ozubu_spiderling_poison"				"冰毒咬伤"
+		"DOTA_Tooltip_modifier_ozubu_spiderling_poison_Description"	"每0.1秒造成伤害"
+
+
+		//雪图
+
+		"winterblight_village"											"凛冬村庄"
+		"shrine_of_azalea"												"阿塞莉娅的圣地"
+		"winterblight_mountain"											"凛冬山脉"
+		
+		"DOTA_Tooltip_ability_item_rpc_winterblight_glacier_stone"		"凛冬冰川"
+		"item_rpc_winterblight_glacier_stone_desc"						"放置在凛冬霜枯山脉的冰雪祭坛之上，就可以增强怪物的力量。"
+
+		"altar_of_ice"												"冰雪祭坛"
+		"altar_of_ice_help1"										"一阵寒意的声音出现在你的头上，”释放冰川宝石的寒冷，感受凛冬霜枯山脉的震颤吧！“<br><br><font color='FFFFFF'>一枚宝石: 敌人拥有 99% 的伤害减免，造成的伤害提高 100% 。</font>"
+		"altar_of_ice_help2"										"一阵寒意的声音出现在你的头上，”释放冰川宝石的寒冷，感受凛冬霜枯山脉的震颤吧！“<br><br><font color='FFFFFF'>两枚宝石: 敌人拥有 99.9% 的伤害减免，造成的伤害提高 200% 。</font>"
+		"altar_of_ice_help3"										"一阵寒意的声音出现在你的头上，”释放冰川宝石的寒冷，感受凛冬霜枯山脉的震颤吧！“<br><br><font color='FFFFFF'>三枚宝石: 敌人拥有 99.999% 的伤害减免，造成的伤害提高 300% 。</font>"
+
+		"buzuki_powerup"											"为所欲为!"
+
+		"villager_dialogue_1"										"山上的空气似乎越来越寒冷。有时我怀疑寒冷最终吞噬我们所有人。."
+		"villager_dialogue_2"										"这条小路标志着通往凛冬山顶漫长而又痛苦道路的开始."
+		"villager_dialogue_2a"										"你在说什么线索?好吧，你可能只需要静待它出现."
+		"villager_dialogue_3"										"在这里之外是另一条蜿蜒上山的路线。然而，这座桥和这座山似乎在黑暗中消失了..."
+	
+		"winterblight_tuskar_villager"								"村民"
+		
+		"DOTA_Tooltip_ability_item_rpc_boreal_granite_chunk"				"北地花岗岩石块"
+		"item_rpc_boreal_granite_chunk_desc"						"在合成圣器中，用此物品和任意不朽品质的衣服装备合成来获得北地花岗岩胸甲。"
+
+		//雪图技能和BUFF
+
+		"DOTA_Tooltip_modifier_hero_candy_crush"					"颜色连线"
+		"DOTA_Tooltip_modifier_hero_candy_crush_Description"		"通过攻击彩色雕像来连接它们。施放技能结束连接."
+
+		"DOTA_Tooltip_modifier_ice_sliding"							"浮冰"
+
+		"DOTA_Tooltip_ability_winterblight_crab_spawner_ability"	"雪蟹孵化"
+		"DOTA_Tooltip_ability_winterblight_crab_spawner_ability_Description"	"以固定的时间间隔孵化雪蟹"
+
+		"DOTA_Tooltip_ability_winterblight_ogre_armor"				"食人魔之甲"
+		"DOTA_Tooltip_ability_winterblight_ogre_armor_Description"	"减少受到的伤害，并在受到多次伤害后进行反击。"
+		"DOTA_Tooltip_ability_winterblight_ogre_armor_damage_resist"	"伤害抗性:"
+		"DOTA_Tooltip_ability_winterblight_ogre_armor_damage"		"反射伤害:"
+		"DOTA_Tooltip_ability_winterblight_ogre_armor_stun_duration"	"反射眩晕时间:"
+		"DOTA_Tooltip_ability_winterblight_ogre_armor_hits_for_counter"	"反击:"
+
+		"DOTA_Tooltip_ability_winterblight_raxxus_passive"			"冰霜"
+		"DOTA_Tooltip_ability_winterblight_raxxus_passive_Description"	"提供被动移动加成。所有的攻击都会在小范围内造成伤害和减速."
+		"DOTA_Tooltip_ability_winterblight_raxxus_passive_damage"		"范围伤害:"
+		"DOTA_Tooltip_ability_winterblight_raxxus_passive_ms_loss"		"冰冻后移速降低:"
+		"DOTA_Tooltip_ability_winterblight_raxxus_passive_ms_self"		"被动移速加成:"
+
+		"DOTA_Tooltip_ability_winterblight_generic_summon"			"召唤"
+		"DOTA_Tooltip_ability_winterblight_generic_summon_Description"	"召唤生物为施法者战斗"
+
+		"DOTA_Tooltip_modifier_mountain_assassin_passive"			"闪避"
+		"DOTA_Tooltip_modifier_mountain_assassin_passive_Description"	"有几率闪避受到的攻击"
+
+		"DOTA_Tooltip_ability_assassin_jump"						"冬日旋转"
+		"DOTA_Tooltip_ability_assassin_jump_Description"			"旋转跳到目标位置"
+
+		"DOTA_Tooltip_ability_assassin_charge_blast"				"极寒火花"
+		"DOTA_Tooltip_ability_assassin_charge_blast_Description"	"蓄力，然后向目标位置发射一个强大的波。被冲击到的敌人会受到伤害并被消耗魔法."
+		"DOTA_Tooltip_ability_assassin_charge_blast_range"			"范围:"
+		"DOTA_Tooltip_ability_assassin_charge_blast_mana_burn"		"法力值燃烧:"
+
+		"DOTA_Tooltip_ability_winterblight_wolf_ability"			"雪狼嚎叫"
+		"DOTA_Tooltip_ability_winterblight_wolf_ability_Description"	"增加附近盟友的攻击力."
+		"DOTA_Tooltip_ability_winterblight_wolf_ability_attacK_damage_increase"				"攻击力提高 %:"
+
+		"DOTA_Tooltip_ability_winterblight_ice_magic_immune_ability"	"冰晶闪烁"
+		"DOTA_Tooltip_ability_winterblight_ice_magic_immune_ability_Description"	"在一段时间内获得魔法免疫."
+
+		"DOTA_Tooltip_ability_mountain_glissade"					"瞬步"
+		"DOTA_Tooltip_ability_mountain_glissade_Description"		"迅速冲向目标位置."
+		"DOTA_Tooltip_ability_mountain_glissade_range"				"滑动范围:"
+
+		"DOTA_Tooltip_ability_winterblight_mountain_dweller_passive"	"冬日暖阳"
+		"DOTA_Tooltip_ability_winterblight_mountain_dweller_passive_Description"	"在没有受到伤害1.5秒后，获得生命回复."
+		"DOTA_Tooltip_ability_winterblight_mountain_dweller_passive_health_regen"	"生命回复 %:"
+
+		"DOTA_Tooltip_modifier_mountain_dweller_regen"			"冬日暖阳"
+		"DOTA_Tooltip_modifier_mountain_dweller_regen_Description"	"增加生命回复"
+
+		"DOTA_Tooltip_ability_winterblight_frostiok_passive"	"冰箭皮肤"
+		"DOTA_Tooltip_ability_winterblight_frostiok_passive_Description"	"定期向周围的敌人发射冰箭。弹射造成伤害，并无限堆叠的层数，增加敌人受到的税后伤害。只以英雄为目标."
+		"DOTA_Tooltip_ability_winterblight_frostiok_passive_damage"			"伤害:"
+		"DOTA_Tooltip_ability_winterblight_frostiok_passive_damage_amp_per_stack"	"每层伤害增加:"
+		"DOTA_Tooltip_ability_winterblight_frostiok_passive_radius"			"弹射半径:"
+
+		"DOTA_Tooltip_modifier_frostiok_damage_amp"				"冰刺"
+		"DOTA_Tooltip_modifier_frostiok_damage_amp_Description"	"增加税后伤害。"
+
+		"DOTA_Tooltip_ability_winterblight_marauder_passive"			"掠夺者"
+		"DOTA_Tooltip_ability_winterblight_marauder_passive_Description"	"攻击无视护甲."
+
+		"DOTA_Tooltip_ability_frost_colossus_ground_slam"		"大地震击"
+		"DOTA_Tooltip_ability_frost_colossus_ground_slam_Description"	"短暂的停顿之后，猛击一个区域内的敌人并造成眩晕."
+		"DOTA_Tooltip_ability_frost_colossus_ground_slam_damage"	"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_frost_colossus_passive"	"冰冻保护"
+		"DOTA_Tooltip_ability_winterblight_frost_colossus_passive_Description"	"受到致命伤害后，将自己冰冻，直到生命回复至满血."
+		"DOTA_Tooltip_ability_winterblight_frost_colossus_passive_stacks"	"被动刷新所需攻击次数:"
+
+		"DOTA_Tooltip_modifier_frostiok_immunity_stacks"			"刷新冰皮所需攻击次数"
+
+		"DOTA_Tooltip_modifier_colossus_restore"					"冰箭皮肤"
+		"DOTA_Tooltip_modifier_colossus_restore_Description"		"无视伤害并回复生命"
+
+		"DOTA_Tooltip_ability_winterblight_norgok_passive"			"骑士诺戈克"
+		"DOTA_Tooltip_ability_winterblight_norgok_passive_Description"	"周期性的增加移动速度，攻击速度和护甲。诺戈克范围内的所有敌人都在0.03秒内被冰霜击中."
+		"DOTA_Tooltip_ability_winterblight_norgok_passive_damage"	"冰冻伤害:"
+		"DOTA_Tooltip_ability_winterblight_norgok_passive_movespeed"	"移动速度提高:"
+		"DOTA_Tooltip_ability_winterblight_norgok_passive_armor"	"护甲提高:"
+
+		"DOTA_Tooltip_ability_purging_ice"							"净化"
+		"DOTA_Tooltip_ability_purging_ice_Description"				"点燃一团冰，造成伤害并清除所有的效果"
+		"DOTA_Tooltip_ability_purging_ice_damage"					"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_snowshaker_passive"		"不屈不挠"
+		"DOTA_Tooltip_ability_winterblight_snowshaker_passive_Description"	"在非冷却时间抵挡100%伤害。在受到伤害后进入冷却."
+
+		"DOTA_Tooltip_modifier_snowshaker_passive"					"不屈不挠"
+		"DOTA_Tooltip_modifier_snowshaker_passive_Description"		"在冷却时间免疫伤害"	
+
+		"DOTA_Tooltip_ability_snowshaker_fissure"					"沟壑"
+		"DOTA_Tooltip_ability_snowshaker_fissure_Description"		"对敌人造成伤害和眩晕，并短暂形成一条沟壑."
+		"DOTA_Tooltip_ability_snowshaker_fissure_range"				"范围:"
+		"DOTA_Tooltip_ability_snowshaker_fissure_fissure_duration"	"沟壑存在时间:"
+		"DOTA_Tooltip_ability_snowshaker_fissure_stun_duration"		"眩晕时间:"
+
+		"DOTA_Tooltip_ability_frigid_growth_charge"					"极寒冲击"
+		"DOTA_Tooltip_ability_frigid_growth_charge_Description"		"沿着冰面向前冲. 造成冰冻伤害并减速附近敌人."
+		"DOTA_Tooltip_ability_frigid_growth_charge_damage"			"伤害:"
+		"DOTA_Tooltip_ability_frigid_growth_charge_radius"			"半径:"
+		"DOTA_Tooltip_ability_frigid_growth_charge_duration"		"持续时间:"
+
+		"DOTA_Tooltip_modifier_ice_sprint_slow"						"极寒冰冻"
+		"DOTA_Tooltip_modifier_ice_sprint_slow_Description"			"减缓"	
+
+		"DOTA_Tooltip_ability_winterblight_frigid_growth_passive"	"树盾"
+		"DOTA_Tooltip_ability_winterblight_frigid_growth_passive_Description"	"受到伤害后，获得2秒的护盾，护盾减少受到的伤害并增加生命回复。盾牌在受到50次伤害后被破坏15秒."
+		"DOTA_Tooltip_ability_winterblight_frigid_growth_passive_damage_reduc"	"护盾伤害减免:"
+		"DOTA_Tooltip_ability_winterblight_frigid_growth_passive_health_regen"	"% 最大生命回复:"
+
+		"DOTA_Tooltip_modifier_frigid_growth_shield"				"树盾"
+		"DOTA_Tooltip_modifier_frigid_growth_shield_Description"	"减少受到的伤害,增加生命回复"
+
+		"DOTA_Tooltip_ability_winterblight_summoner_blink"			"闪烁"
+		"DOTA_Tooltip_ability_winterblight_summoner_blink_Description"	"短暂的延迟后，传送到附近随机的敌人身边."
+
+		"DOTA_Tooltip_ability_winterblight_generic_chill_attack_passive"	"严寒侵袭"
+		"DOTA_Tooltip_ability_winterblight_generic_chill_attack_passive_Description"	"减缓敌人的攻击速度和移动速度."
+		"DOTA_Tooltip_ability_winterblight_generic_chill_attack_passive_as_loss"		"攻击速度降低:"
+		"DOTA_Tooltip_ability_winterblight_generic_chill_attack_passive_ms_loss"		"移速降低:"
+
+		"DOTA_Tooltip_modifier_winterblight_chilled"					"严寒"
+		"DOTA_Tooltip_modifier_winterblight_chilled_Description"		"攻速移速减缓"
+
+		"DOTA_Tooltip_ability_winterblight_generic_summon2"				"召唤生物"
+		"DOTA_Tooltip_ability_winterblight_generic_summon2_Description"	"召唤生物为施法者战斗."	
+
+		"DOTA_Tooltip_ability_bladedancer_jump"							"突袭"
+		"DOTA_Tooltip_ability_bladedancer_jump_Description"				"跳到目标位置，并释放冲击波."	
+		"DOTA_Tooltip_ability_bladedancer_jump_damage"					"伤害:"	
+
+		"DOTA_Tooltip_ability_winterblight_bear_passive"				"脚镣"
+		"DOTA_Tooltip_ability_winterblight_bear_passive_Description"	"脚镣效果下的敌人施放技能,冷却时间增加到30秒."
+
+		"DOTA_Tooltip_modifier_bear_silencer"							"脚镣"
+		"DOTA_Tooltip_modifier_bear_silencer_Description"				"施放技能将增加技能冷却时间至30秒"
+
+		"DOTA_Tooltip_ability_winter_satyr_heal"						"神秘的治疗"
+		"DOTA_Tooltip_ability_winter_satyr_heal_Description"			"治疗一个盟友。"
+
+
+		"DOTA_Tooltip_ability_winterblight_endurance"					"耐久"
+		"DOTA_Tooltip_ability_winterblight_endurance_Description"		"被眩晕时受到的伤害将会降低，并且造成的伤害将会提高"
+		"DOTA_Tooltip_ability_winterblight_endurance_damage_reduction"	"伤害减免 %:"
+		"DOTA_Tooltip_ability_winterblight_endurance_damage_increase"	"伤害提高 %:"
+		
+		"DOTA_Tooltip_ability_winterblight_frostbite_attack"		"冰冻攻击"
+		"DOTA_Tooltip_ability_winterblight_frostbite_attack_Description"	"每次攻击都会增加一层冰冻伤害。每0.03秒造成冰冻伤害。伤害为基础技能伤害x冰冻层数的平方."
+		"DOTA_Tooltip_ability_winterblight_frostbite_attack_damage"			"基础伤害:"
+		"DOTA_Tooltip_ability_winterblight_frostbite_attack_max_stacks"		"最大层数:"
+		"DOTA_Tooltip_ability_winterblight_frostbite_attack_as_loss"		"每层攻击速度降低:"
+		"DOTA_Tooltip_ability_winterblight_frostbite_attack_ms_loss"		"每层移动速度降低:"
+
+		"DOTA_Tooltip_modifier_frostbite_effect"					"冰冻"
+		"DOTA_Tooltip_modifier_frostbite_effect_Description"		"每0.03秒受到伤害乘以冰冻层数的平方。此外降低移动和攻击速度."
+
+		"DOTA_Tooltip_ability_winterblight_luna_blessing"			"月之祝福"
+		"DOTA_Tooltip_ability_winterblight_luna_blessing_Description"	"提高附近盟友单位攻击伤害和夜晚视野."
+		"DOTA_Tooltip_ability_winterblight_luna_blessing_bonus_night_vision"	"夜晚视野增加:"
+		"DOTA_Tooltip_ability_winterblight_luna_blessing_bonus_damage"		"额外伤害:"
+
+		"DOTA_Tooltip_ability_luna_taskmaster_shield"				"月神之盾"
+		"DOTA_Tooltip_ability_luna_taskmaster_shield_Description"	"减少99.9%受到的伤害。每次造成伤害时损失1层充能."
+		"DOTA_Tooltip_ability_luna_taskmaster_shield_charges"		"初始充能数:5"
+
+		"DOTA_Tooltip_modifier_luna_armor"						"月神之盾"
+		"DOTA_Tooltip_modifier_luna_armor_Description"			"所受伤害大幅减少"
+
+		"DOTA_Tooltip_ability_winterblight_azalea_sorc_passive"			"冰霜之力"
+		"DOTA_Tooltip_ability_winterblight_azalea_sorc_passive_Description"	"每次攻击落地时，获得一个buff，增加攻击速度和攻击距离."
+		"DOTA_Tooltip_ability_winterblight_azalea_sorc_passive_as_per_stack"	"每次攻击速度:"
+		"DOTA_Tooltip_ability_winterblight_azalea_sorc_passive_range_per_stack"	"每次攻击范围:"
+
+		"DOTA_Tooltip_modifier_azalea_buff"				"冰霜之力"
+		"DOTA_Tooltip_modifier_azalea_buff_Description"	"增加攻击范围和攻击速度."
+
+		"DOTA_Tooltip_ability_ice_spectre_passive"				"幽灵燃烧"
+		"DOTA_Tooltip_ability_ice_spectre_passive_Description"	"攻击消耗目标法力并基于法力值耗损造成伤害。死后，在一个区域短时间内造成10倍于这个量的火焰伤害."
+		"DOTA_Tooltip_ability_ice_spectre_passive_mana_burn"	"法力值燃烧:"
+
+		"DOTA_Tooltip_ability_winterblight_frost_elemental_passive"	"冰霜之力"
+		"DOTA_Tooltip_ability_winterblight_frost_elemental_passive_Description"	"攻击放缓敌人节奏."
+		"DOTA_Tooltip_ability_winterblight_frost_elemental_passive_as_loss"	"攻击速度减少:"
+		"DOTA_Tooltip_ability_winterblight_frost_elemental_passive_ms_loss"	"移动速度减少:"
+		"DOTA_Tooltip_ability_winterblight_frost_elemental_passive_radius"	"半径:"
+
+		"DOTA_Tooltip_ability_ice_hulk_passive"						"冻结"
+		"DOTA_Tooltip_ability_ice_hulk_passive_Description"			"1/16概率造成眩晕和纯粹伤害，并在一定范围内造成减速."
+		"DOTA_Tooltip_ability_ice_hulk_passive_damage"				"伤害:"	
+
+		"DOTA_Tooltip_ability_winterblight_curse_of_azalea"			"诅咒"
+		"DOTA_Tooltip_ability_winterblight_curse_of_azalea_Description"	"对敌人施加诅咒4秒。如果期间敌人施放了技能，就会被沉默."
+		"DOTA_Tooltip_ability_winterblight_curse_of_azalea_duration"	"沉默时间:"
+
+		"DOTA_Tooltip_modifier_curse_of_azalea"						"诅咒"
+		"DOTA_Tooltip_modifier_curse_of_azalea_Description"			"目标施放技能会被沉默."	
+
+		"DOTA_Tooltip_modifier_curse_of_azalea_effect"				"沉默"
+
+		"DOTA_Tooltip_ability_frost_titan_passive"					"泰坦之力"
+		"DOTA_Tooltip_ability_frost_titan_passive_Description"		"被动增加生命回复速度. 增加攻击速度和移动速度."
+		"DOTA_Tooltip_ability_frost_titan_passive_as_bonus"			"攻击力提高:"
+		"DOTA_Tooltip_ability_frost_titan_passive_ms_bonus"			"移动速度提高:"
+		"DOTA_Tooltip_ability_frost_titan_passive_base_regen"		"被动生命回复提高 % :"
+
+		"DOTA_Tooltip_modifier_titan_gods_strength"					"泰坦之力"
+		"DOTA_Tooltip_modifier_titan_gods_strength_Description"		"增加攻击速度和移动速度"
+
+		"DOTA_Tooltip_ability_frost_titan_ice_blast"				"大地震颤"
+		"DOTA_Tooltip_ability_frost_titan_ice_blast_Description"	"沿线造成地震"
+		"DOTA_Tooltip_ability_frost_titan_ice_blast_damage"			"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_dimension_spear"			"甩击"
+		"DOTA_Tooltip_ability_winterblight_dimension_spear_Description"	"当发动攻击时，减少敌人冷却中技能的技能冷却时间."
+		"DOTA_Tooltip_ability_winterblight_dimension_spear_duration"	"冷却时间减少:"
+
+		"DOTA_Tooltip_ability_frost_dragon_breath"					"冰龙吐息"
+		"DOTA_Tooltip_ability_frost_dragon_breath_Description"		"喷出火焰降低敌人的移动速度、攻击速度和生命回复速度。生命回复只影响英雄."
+		"DOTA_Tooltip_ability_frost_dragon_breath_as_slow"			"攻击速度减少:"
+		"DOTA_Tooltip_ability_frost_dragon_breath_ms_slow"			"移动速度减少:"
+		"DOTA_Tooltip_ability_frost_dragon_breath_health_regen_percent"	"生命回复速度降低% :"
+
+		"DOTA_Tooltip_modifier_frost_breath_effect"					"冰龙吐息"
+		"DOTA_Tooltip_modifier_frost_breath_effect_Description"		"降低移动速度, 攻击速度 和 生命回复速度."	
+
+		
+
+		
+		
+		
+		
+		"DOTA_Tooltip_ability_winterblight_azalea_zealot_passive"		"异端"
+		"DOTA_Tooltip_ability_winterblight_azalea_zealot_passive_Description"	"根据伤害类型减少伤害。翡翠狂热者减少魔法伤害，蔚蓝狂热者减少物理伤害，而猩红狂热者则减少纯粹伤害。"
+		"DOTA_Tooltip_ability_winterblight_azalea_zealot_passive_damage_reduction"	"减少伤害%:"
+
+		"DOTA_Tooltip_ability_winterblight_zealot_blast"			"紫色超声波"
+		"DOTA_Tooltip_ability_winterblight_zealot_blast_Description"		"放出一道破坏声波对敌人造成伤害，并且使被击中的敌人的技能冷却时间增加。"
+		"DOTA_Tooltip_ability_winterblight_zealot_blast_cooldown_added"		"技能冷却时间增加:"
+		"DOTA_Tooltip_ability_winterblight_zealot_blast_damage"			"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_soulfire_storm"			"凝魂风暴"
+		"DOTA_Tooltip_ability_winterblight_soulfire_storm_Description"		"在目标地点产生一波寒冰。被影响的敌人将受到持续伤害。释放技能或者被寒冰击中的话会再施加一次持续伤害负面状态。伤害会被增加，数值为层数的平方。（乘法）"
+		"DOTA_Tooltip_ability_winterblight_soulfire_storm_wave_damage"	"伤害:"
+		"DOTA_Tooltip_ability_winterblight_soulfire_storm_burn_damage"	"持续性伤害技能伤害:"
+		
+		"DOTA_Tooltip_modifier_cold_seer_wave_burn"				"凝魂"
+		"DOTA_Tooltip_modifier_cold_seer_wave_burn_Description"	"受到持续性伤害技能伤害，释放一个技能会增加该持续性伤害层数。"
+
+		"DOTA_Tooltip_ability_winterblight_speed_softening"		"极速缓冲"
+		"DOTA_Tooltip_ability_winterblight_speed_softening_Description"	"只要这个单位的移动速度在临界值之上时，所有受到的伤害将会被大量减少。"
+		"DOTA_Tooltip_ability_winterblight_speed_softening_ms_threshold"	"移动速度临界值:"
+		"DOTA_Tooltip_ability_winterblight_speed_softening_damage_reduc"	"伤害减少:"
+
+		"DOTA_Tooltip_ability_azalea_crystal_nova"				"冰霜新星"
+		"DOTA_Tooltip_ability_azalea_crystal_nova_Description"	"在目标地点产生一道冰霜新星，对区域内敌人造成伤害并且减速他们。"
+		"DOTA_Tooltip_ability_azalea_crystal_nova_radius"			"范围:"
+		"DOTA_Tooltip_ability_azalea_crystal_nova_movespeed_slow"	"移动速度降低:"
+		"DOTA_Tooltip_ability_azalea_crystal_nova_attackspeed_slow"	"攻击速度降低:"
+		"DOTA_Tooltip_ability_azalea_crystal_nova_duration"			"减速持续时间:"
+		"DOTA_Tooltip_ability_azalea_crystal_nova_nova_damage"		"新星伤害:"
+
+		"DOTA_Tooltip_ability_azalea_maiden_frostbite"			"冰霜禁制"
+		"DOTA_Tooltip_ability_azalea_maiden_frostbite_Description"	"指定一个目标，用寒冰包围住目标的双脚，使其无法移动。"
+		"DOTA_Tooltip_ability_azalea_maiden_frostbite_damage_per_second_tooltop"	"每秒伤害:"
+		"DOTA_Tooltip_ability_azalea_maiden_frostbite_duration"		"持续时间:"
+
+		"DOTA_Tooltip_ability_maiden_magic_shield"				"阿塞莉亚的魔法之盾"
+		"DOTA_Tooltip_ability_maiden_magic_shield_Description"		"减少100%的受到的伤害，每当受到一次伤害时会失去一层盾。"
+		"DOTA_Tooltip_ability_maiden_magic_shield_charges"		"充能层数:"
+
+		"DOTA_Tooltip_modifier_maiden_armor"				"魔法之盾"
+		"DOTA_Tooltip_modifier_maiden_armor_Description"	"减少受到的魔法伤害。"
+
+		"DOTA_Tooltip_ability_zefnar_passive"				"霜灼武器"
+		"DOTA_Tooltip_ability_zefnar_passive_Description"	"普通攻击目标时会造成额外的魔法伤害并且缠绕敌人，受到缠绕的敌人每0.1秒受到一次灼烧伤害。"
+		"DOTA_Tooltip_ability_zefnar_passive_damage"		"额外伤害:"
+		"DOTA_Tooltip_ability_zefnar_passive_burn_damage"	"灼烧伤害:"
+
+		"DOTA_Tooltip_modifier_zefnar_root"					"霜灼禁制"
+		"DOTA_Tooltip_modifier_zefnar_root_Description"		"被缠绕了并且每0.1秒受到一次灼烧伤害。"
+
+		"DOTA_Tooltip_ability_winterblight_syphon"			"虹吸"
+		"DOTA_Tooltip_ability_winterblight_syphon_Description"	"当前生命值在最大生命值10%以上时免疫所有伤害，每次攻击偷取目标的生命回复。受到伤害时会减少自身生命回复速度，减少数值为最大生命值的百分比。"
+		"DOTA_Tooltip_ability_winterblight_syphon_regen_per_stack"	"每次攻击偷取的生命回复速率%:"
+		"DOTA_Tooltip_ability_winterblight_syphon_lost_regen"		"当受到伤害时减少的生命回复速率%:"
+
+		"DOTA_Tooltip_modifier_syphist_regen"				"虹吸 (虹吸者)"
+		"DOTA_Tooltip_modifier_syphist_regen_Description"	"获得生命回复"
+
+		"DOTA_Tooltip_modifier_syphist_negative"				"虹吸 (负面效果)"
+		"DOTA_Tooltip_modifier_syphist_negative_Description"	"失去生命回复"
+
+		"DOTA_Tooltip_modifier_modifier_syphist_regen_opponent"				"虹吸 (敌方)"
+		"DOTA_Tooltip_modifier_modifier_syphist_regen_opponent_Description"	"减少生命回复"
+
+		"DOTA_Tooltip_ability_source_revenant_passive"			"能量始源"
+		"DOTA_Tooltip_ability_source_revenant_passive_Description"	"普通攻击后回复魔法值。每点当前魔法值增加攻击力。"
+		"DOTA_Tooltip_ability_source_revenant_passive_damage_per_mana"	"每点当前魔法值给予攻击力:"
+		"DOTA_Tooltip_ability_source_revenant_passive_mana_restore_on_attack"	"魔法回复%:"
+
+		"DOTA_Tooltip_modifier_source_revenant_attack_power"	"能量始源"
+		"DOTA_Tooltip_modifier_source_revenant_attack_power_Description"	"魔法值增加攻击力"
+
+		"DOTA_Tooltip_ability_winterblight_suicidal_skater"		"滑冰狂徒"
+		"DOTA_Tooltip_ability_winterblight_suicidal_skater_Description"	"在生命值较低时，向最近的敌人跃进，在目标方位自杀并爆炸。"	
+		"DOTA_Tooltip_ability_winterblight_suicidal_skater_damage"		"伤害:"
+		"DOTA_Tooltip_ability_winterblight_suicidal_skater_health_threshold_percent"	"生命值自杀临界%:"
+		"DOTA_Tooltip_ability_winterblight_suicidal_skater_ms_loss"		"移动速度降低:"
+		"DOTA_Tooltip_ability_winterblight_suicidal_skater_as_loss"		"攻击速度降低:"
+
+		"DOTA_Tooltip_ability_winterblight_mind_breaker_damage"			"神蚀者"
+		"DOTA_Tooltip_ability_winterblight_mind_breaker_damage_Description"	"对被攻击的目标造成数值基于其智力的额外伤害。 该伤害在0.03秒后生效。"
+		"DOTA_Tooltip_ability_winterblight_mind_breaker_damage_percentage"	"额外伤害为攻击造成伤害的 % :"
+		"DOTA_Tooltip_ability_winterblight_mind_breaker_damage_intelligence"	"基于智力百分比的伤害 (英雄):"
+		"DOTA_Tooltip_ability_winterblight_mind_breaker_damage_mana_threshold"	"基于魔法值百分比的伤害 (非英雄单位):"
+		"DOTA_Tooltip_ability_winterblight_mind_breaker_damage_max_strikes"	"每次攻击最大冲击次数:"
+
+		"DOTA_Tooltip_ability_winterblight_ghost_striker_passive"	"雪上加霜"
+		"DOTA_Tooltip_ability_winterblight_ghost_striker_passive_Description"	"普通攻击将造成额外的数值基于目标丢失生命值的纯粹伤害。"
+		"DOTA_Tooltip_ability_winterblight_ghost_striker_passive_damage_per_missing_hp"	"每点丢失的生命值提供的伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_secret_keeper_passive"	"敏捷崩坏"
+		"DOTA_Tooltip_ability_winterblight_secret_keeper_passive_Description"	"普通攻击减少目标一定百分比的敏捷"
+		"DOTA_Tooltip_ability_winterblight_secret_keeper_passive_agility_loss"	"敏捷减少%"
+
+		"DOTA_Tooltip_modifier_secret_keeper_agi_loss"				"敏捷崩坏"
+		"DOTA_Tooltip_modifier_secret_keeper_agi_loss_Description"	"减少敏捷"
+
+		"DOTA_Tooltip_ability_thorcrux_passive"						"连击"
+		"DOTA_Tooltip_ability_thorcrux_passive_Description"			"普通攻击将攻击技能范围内的所有敌人。"	
+
+		"DOTA_Tooltip_ability_winterblight_crippling_return"		"衰弱"
+		"DOTA_Tooltip_ability_winterblight_crippling_return_Description"	"攻击该单位的敌人的攻击力将被降低"
+		"DOTA_Tooltip_ability_winterblight_crippling_return_damage_loss"	"攻击力降低%:"
+
+		"DOTA_Tooltip_modifier_crippling_return_effect"				"衰弱"
+		"DOTA_Tooltip_modifier_crippling_return_effect_Description"	"攻击力被降低"	
+
+		"DOTA_Tooltip_ability_winterblight_armor_softening"		"柔韧之甲"
+		"DOTA_Tooltip_ability_winterblight_armor_softening_Description"	"该单位在护甲大于一定临界值时受到的伤害将被大量减少。"
+		"DOTA_Tooltip_ability_winterblight_armor_softening_armor_threshold"	"护甲临界值:"
+		"DOTA_Tooltip_ability_winterblight_armor_softening_damage_reduc"	"伤害减少:"		
+
+		"DOTA_Tooltip_ability_winterblight_chrolonus_passive"			"永世打击"
+		"DOTA_Tooltip_ability_winterblight_chrolonus_passive_Description"	"普通攻击有概率眩晕并击退敌人。"
+
+		"DOTA_Tooltip_ability_chrolonus_dash"					"永世交换"
+		"DOTA_Tooltip_ability_chrolonus_dash_Description"		"跳跃至目标地点并在目标地点周围造成伤害。在冷却之前有很多次自由释放次数。"
+		"DOTA_Tooltip_ability_chrolonus_dash_damage"			"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_crystal_meditation"			"水晶冥想"
+		"DOTA_Tooltip_ability_winterblight_crystal_meditation_Description"	"在短暂延迟后额外攻击一次。"
+		"DOTA_Tooltip_ability_winterblight_crystal_meditation_attacks"	"额外攻击:"
+
+		"DOTA_Tooltip_ability_winterblight_crystal_charge"		"梅尔芙冲刺"
+		"DOTA_Tooltip_ability_winterblight_crystal_charge_Description"	"冲向目标地点。"
+
+		"DOTA_Tooltip_ability_winterblight_spectral_witch_passive"		"夜幕"
+		"DOTA_Tooltip_ability_winterblight_spectral_witch_passive_description"	"如果攻击者在一定范围外则对该单位造成的伤害大幅减少，并且给周围的敌人增加攻击力。"
+		"DOTA_Tooltip_ability_winterblight_spectral_witch_passive_damage_reduction"	"减伤%:"
+		"DOTA_Tooltip_ability_winterblight_spectral_witch_passive_attack_damage_bonus"	"敌人的额外攻击力:"
+
+		"DOTA_Tooltip_ability_winterblight_air_spirit_passive"		"冰晶空气"
+		"DOTA_Tooltip_ability_winterblight_air_spirit_passive_Description"	"被动提供额外攻击力 %."
+		"DOTA_Tooltip_ability_winterblight_air_spirit_passive_attack_damage"	" 攻击力%:"
+
+		"DOTA_Tooltip_ability_winterblight_cruxal_passive"			"破防"
+		"DOTA_Tooltip_ability_winterblight_cruxal_passive_Description"	"每次普通攻击施加一个可叠加的减少护甲的负面状态。"
+		"DOTA_Tooltip_ability_winterblight_cruxal_passive_armor_loss_per_stack"	"每层负面状态护甲减少:"
+
+		"DOTA_Tooltip_modifier_cruxal_armor_loss"				"破防"
+		"DOTA_Tooltip_modifier_cruxal_armor_loss_Description"	"减少护甲"
+
+		"DOTA_Tooltip_ability_cruxal_ice_blast"					"冰晶爆轰"
+		"DOTA_Tooltip_ability_cruxal_ice_blast_Description"		"向目标释放一个寒冰之球，被冰球击中的敌人受到持续伤害并且无法被治疗。在这个负面状态下的敌人在生命值低于一定临界值后将立即破碎死亡。"
+		"DOTA_Tooltip_ability_cruxal_ice_blast_dot_damage"		"持续伤害:"
+		"DOTA_Tooltip_ability_cruxal_ice_blast_kill_pct"		" 生命值即死百分比:"
+
+		"DOTA_Tooltip_modifier_ice_blast_debuff_datadriven"		"冰晶爆轰"
+		"DOTA_Tooltip_modifier_ice_blast_debuff_datadriven_Description"	"不能被治疗。如果生命值在临界值百分比之下时会立刻破碎死亡。"
+
+		"DOTA_Tooltip_ability_winterblight_essence_drain"		"精气汲取"
+		"DOTA_Tooltip_ability_winterblight_essence_drain_Description" 	"所有附近的英雄被精气汲取的光束链接，精气汲取将会偷取一个正面状态并且每0.1秒将该状态施加到施法者身上。"
+		"DOTA_Tooltip_ability_winterblight_essence_drain_radius"	"范围:"
+
+		"DOTA_Tooltip_modifier_essence_drain_effect"			"精气汲取"
+		"DOTA_Tooltip_modifier_essence_drain_effect_Description" "正面状态被偷取"
+
+		"DOTA_Tooltip_ability_winterblight_bladewielder_passive"	"剑舞者之力"
+		"DOTA_Tooltip_ability_winterblight_bladewielder_passive_Description"	"提供额外的攻击力和护甲。在受到伤害后，失去这个正面状态1.5秒。"
+		"DOTA_Tooltip_ability_winterblight_bladewielder_passive_attack_outgoing"	"增加%攻击力:"
+		"DOTA_Tooltip_ability_winterblight_bladewielder_passive_armor"				"护甲:"
+
+		"DOTA_Tooltip_modifier_bladewielder_force"				"剑舞者之力"
+		"DOTA_Tooltip_modifier_bladewielder_force_Description"	"增加攻击力和护甲。"
+
+		"DOTA_Tooltip_ability_megmus_explosion"					"广阔冻结"
+		"DOTA_Tooltip_ability_megmus_explosion_Description"		"在一个短暂的引导后，对周围敌人造成伤害和眩晕。"	
+		"DOTA_Tooltip_ability_megmus_explosion_stun_duration"   "眩晕持续时间:"
+		"DOTA_Tooltip_ability_megmus_explosion_damage"			"伤害:"
+		"DOTA_Tooltip_ability_megmus_explosion_as_slow"			"攻击速度降低:"
+		"DOTA_Tooltip_ability_megmus_explosion_ms_slow"			"移动速度降低:"
+
+		"DOTA_Tooltip_modifier_megmus_slow"						"广阔冻结"
+		"DOTA_Tooltip_modifier_megmus_slow_Description"			"被减速"
+
+		"DOTA_Tooltip_ability_winterblight_rupthold_passive"	"贪魔的恶臭"
+		"DOTA_Tooltip_ability_winterblight_rupthold_passive_Description"	"在贪魔周围的敌人生命回复降低并且不能被治疗。"
+		"DOTA_Tooltip_ability_winterblight_rupthold_passive_aoe_radius"		"影响范围:"
+		"DOTA_Tooltip_ability_winterblight_rupthold_passive_health_regen_loss_percent"	"生命回复速率减少%:"
+
+		"DOTA_Tooltip_modifier_rupthold_effect"					"贪魔的恶臭"
+		"DOTA_Tooltip_modifier_rupthold_effect_Description"		"减少生命回复并且无法被治疗。"	
+
+		"DOTA_Tooltip_ability_winterblight_gargoyle_summon_passive"	"石像鬼皮肤"
+		"DOTA_Tooltip_ability_winterblight_gargoyle_summon_passive_Description"	"减少受到的纯粹伤害"
+		"DOTA_Tooltip_ability_winterblight_gargoyle_summon_passive_pure_resist"	"纯粹伤害抗性:"
+
+		"DOTA_Tooltip_ability_winterblight_ghost_aura"			"噩梦光环"
+		"DOTA_Tooltip_ability_winterblight_ghost_aura_Description"	"减少敌人100%的闪避，并且降低他们的攻击力。每次攻击受该光环影响的敌人会对其施加一个负面状态，当该负面状态达到10层时，该目标会被缴械。"
+		"DOTA_Tooltip_ability_winterblight_ghost_aura_disarm_duration"	"缴械持续时间:"
+		"DOTA_Tooltip_ability_winterblight_ghost_aura_attack_damage_percent"	"攻击力减少%:"
+
+		"DOTA_Tooltip_modifier_ghost_aura_effect"				"噩梦光环"
+		"DOTA_Tooltip_modifier_ghost_aura_effect_Description"	"光环减少攻击力。攻击目标会对其施加一层负面状态。到达10层时目标将会被缴械。"
+
+		"DOTA_Tooltip_modifier_ghost_aura_stacks"				"噩梦光环层数"
+
+		"DOTA_Tooltip_modifier_ghost_aura_disarm"				"噩梦缴械"
+
+		"DOTA_Tooltip_ability_winterblight_regression_strike"	"回归重击"
+		"DOTA_Tooltip_ability_winterblight_regression_strike_Description"	"普通攻击造成基于目标攻击力百分比的纯粹伤害。"
+		"DOTA_Tooltip_ability_winterblight_regression_strike_attack_power_mult"			"伤害为敌人的攻击力%:"
+
+		"DOTA_Tooltip_ability_winterblight_azalea_dragoon_passive"	"战争格挡"
+		"DOTA_Tooltip_ability_winterblight_azalea_dragoon_passive_Description"	"在一定范围之外的敌人造成的伤害将被大量减少。"
+		"DOTA_Tooltip_ability_winterblight_azalea_dragoon_passive_damage_block"	"伤害格挡%:"
+		"DOTA_Tooltip_ability_winterblight_azalea_dragoon_passive_distance"		"距离:"
+
+		"DOTA_Tooltip_ability_winterblight_ensnare"					"诱捕"
+		"DOTA_Tooltip_ability_winterblight_ensnare_Description"		"将敌人困在一个网中，使他们不能移动。"
+		"DOTA_Tooltip_ability_winterblight_ensnare_duration"		"缠绕持续时间:"
+
+		"DOTA_Tooltip_ability_winterblight_azalea_knife_passive"		"超级穿刺"
+		"DOTA_Tooltip_ability_winterblight_azalea_knife_passive_Description"	"被动增加税后伤害"
+		"DOTA_Tooltip_ability_winterblight_azalea_knife_passive_postmitigation"	"税后伤害%:"
+
+		"DOTA_Tooltip_ability_buzuki_hex"							"布祖克的妖术"
+		"DOTA_Tooltip_ability_buzuki_hex_Description"				"将一个敌人变为一只动物，使其不能攻击和释放技能。"
+		"DOTA_Tooltip_ability_buzuki_hex_duration"					"持续时间:"
+
+		"DOTA_Tooltip_ability_torphet_ice_vortex"					"托菲特的冰霜漩涡"
+		"DOTA_Tooltip_ability_torphet_ice_vortex_Description"		"在地面上产生一个冰霜路径，站在寒霜路径上的敌人的魔法抗性和移动速度将会被降低。"
+		"DOTA_Tooltip_ability_torphet_ice_vortex_movement_speed_pct"	"移动速度降低%:"
+		"DOTA_Tooltip_ability_torphet_ice_vortex_spell_resist_pct"		"魔法抗性减少:"
+
+		"DOTA_Tooltip_ability_torphet_cold_feet"					"托菲特的寒霜之足"
+		"DOTA_Tooltip_ability_torphet_cold_feet_Description"		"对敌人施加负面状态，造成持续性伤害。如果敌人没有在负面状态消失前走出消除距离，那么他们将会被冻在原地。"
+		"DOTA_Tooltip_ability_torphet_cold_feet_damage"				"持续伤害:"
+		"DOTA_Tooltip_ability_torphet_cold_feet_break_distance"		"破碎距离:"
+		"DOTA_Tooltip_ability_torphet_cold_feet_stun_duration"		"眩晕持续时间:"
+		"DOTA_Tooltip_ability_torphet_cold_feet_cast_range_tooltip"	"施法距离:"
+
+		"DOTA_Tooltip_ability_winterblight_ice_orb"					"阿泽缇娅的霜冻法球"
+		"DOTA_Tooltip_ability_winterblight_ice_orb_Description"		"投掷出一个霜冻法球，造成伤害，并且减速接触到该技能的敌人。同时也会向随机目标放出寒冰之枪，对接触到的敌人造成纯粹伤害并且减速。"
+		"DOTA_Tooltip_ability_winterblight_ice_orb_as_loss"			"攻击速度降低:"
+		"DOTA_Tooltip_ability_winterblight_ice_orb_ms_loss"			"移动速度降低:"
+		"DOTA_Tooltip_ability_winterblight_ice_orb_damage"			"伤害:"
+
+		"DOTA_Tooltip_modifier_ice_orb_freeze"						"冻结"
+
+		"DOTA_Tooltip_ability_winterblight_buzuki_passive"			"冻结离子装甲"
+		"DOTA_Tooltip_ability_winterblight_buzuki_passive_Description"	"布祖克的装甲会周期性的释放出巨大能量。"
+		"DOTA_Tooltip_ability_winterblight_buzuki_passive_range"	"距离:"
+		"DOTA_Tooltip_ability_winterblight_buzuki_passive_damage"	"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_fencer_opportunity"		"优势"
+		"DOTA_Tooltip_ability_winterblight_fencer_opportunity_Description"	"攻击敌人会施加优势的负面状态。任何友军在攻击带有该技能负面状态的敌方单位时获得巨大的攻击力加成。"
+		"DOTA_Tooltip_ability_winterblight_fencer_opportunity_as_bonus"		"额外攻击速度:"
+		"DOTA_Tooltip_ability_winterblight_fencer_opportunity_attack_power_bonus"	"额外攻击力:"
+		"DOTA_Tooltip_ability_winterblight_fencer_opportunity_ms_bonus"		"额外移动速度:"
+
+		"DOTA_Tooltip_modifier_opportunity_debuff"					"优势 负面状态"
+		"DOTA_Tooltip_modifier_opportunity_debuff_Description"		"攻击该单位的敌人获得机会的正面状态。"
+
+		"DOTA_Tooltip_modifier_opportunity_buff"					"优势 正面状态"
+		"DOTA_Tooltip_modifier_opportunity_buff_Description"		"增加攻击速度和攻击力"
+
+		"DOTA_Tooltip_ability_winterblight_pixie_mystery_summon"	"神秘链接"
+		"DOTA_Tooltip_ability_winterblight_pixie_mystery_summon_Description"	"与友军共享伤害?"
+
+		"DOTA_Tooltip_ability_winterblight_reality_rift"			"重力裂隙"
+		"DOTA_Tooltip_ability_winterblight_reality_rift_Description"	"将你和目标带到你和目标连线上的随机位置。在施法后获得额外攻击力。"
+		"DOTA_Tooltip_ability_winterblight_reality_rift_cast_range"		"施法距离:"
+		"DOTA_Tooltip_ability_winterblight_reality_rift_bonus_damage"	"额外攻击力:"
+
+		"DOTA_Tooltip_modifier_reality_rift_datadriven"			"重力裂隙"
+		"DOTA_Tooltip_modifier_reality_rift_datadriven_Description"	"增加攻击力"	
+
+		"DOTA_Tooltip_ability_winterblight_starseeker_passive"	"阿斯特拉之裳"
+		"DOTA_Tooltip_ability_winterblight_starseeker_passive_Description"	"魔法伤害将会治疗你而不是造成伤害。"
+
+		"DOTA_Tooltip_ability_winterblight_star_prophecy"		"星之预言"
+		"DOTA_Tooltip_ability_winterblight_star_prophecy_Description"	"向目标单位施加一个负面状态，当这个单位普通攻击或释放一个技能时，他们获得一个层数，并且该状态持续时间延长。当负面状态持续时间结束时，流星会坠落至目标单位身上，流星数取决于目标单位身上的负面状态层数。"
+		"DOTA_Tooltip_ability_winterblight_star_prophecy_damage_per_star"	"每颗流星的伤害:"
+		"DOTA_Tooltip_ability_winterblight_star_prophecy_stun_per_star"		"每颗流星造成的眩晕持续时间:"
+		"DOTA_Tooltip_ability_winterblight_star_prophecy_duration_ability"	"释放技能后加长的持续时间:"
+		"DOTA_Tooltip_ability_winterblight_star_prophecy_duration_attack"	"普通攻击后加长的持续时间:"
+
+		"DOTA_Tooltip_modifier_star_prophecy_debuff"		"星之预言"
+		"DOTA_Tooltip_modifier_star_prophecy_debuff_Description"	"基于负面状态层数的流星数"
+
+		"DOTA_Tooltip_ability_winterblight_spinesplitter_passive"	"裂口"
+		"DOTA_Tooltip_ability_winterblight_spinesplitter_passive_Description"	"在你周围的敌人每0.5秒获得一层裂口层数(所有持有该技能的怪物也会提供这个层数，叠加)，当目标身上的层数到达50层时，向目标投掷一个飞弹，对敌人造成伤害和眩晕。"
+		"DOTA_Tooltip_ability_winterblight_spinesplitter_passive_radius"		"范围:"
+		"DOTA_Tooltip_ability_winterblight_spinesplitter_passive_stun_duration"	"眩晕持续时间:"
+		"DOTA_Tooltip_ability_winterblight_spinesplitter_passive_damage"		"伤害:"
+
+		"DOTA_Tooltip_modifier_spinesplitter_stack"					"裂隙"
+		"DOTA_Tooltip_modifier_spinesplitter_stack_Description"		"当50层时标记一个飞弹"	
+
+		"DOTA_Tooltip_ability_winterblight_stargazer_passive"		"群星风暴"
+		"DOTA_Tooltip_ability_winterblight_stargazer_passive_Description"	"向周围敌人放出流星和彗星，你离观星者越远，流星打击频率越高。 "
+		"DOTA_Tooltip_ability_winterblight_stargazer_passive_damage"		"流星伤害:"
+		"DOTA_Tooltip_ability_winterblight_stargazer_passive_comet_damage"	"彗星伤害:"
+
+		"DOTA_Tooltip_modifier_stargazer_aura"						"银河风暴"
+		"DOTA_Tooltip_modifier_stargazer_aura_Description"			"被群星锁定。"
+
+		"DOTA_Tooltip_ability_stargazer_glissade"					"滑步"
+		"DOTA_Tooltip_ability_stargazer_glissade_Description"		"滑动到目标地点。"
+
+		"DOTA_Tooltip_ability_charging_taskmaster_shield"			"磁力之盾"
+		"DOTA_Tooltip_ability_charging_taskmaster_shield_Description"	"每1.2秒给周围友军施加一个盾，减少周围友军受到的99.5%伤害。"
+		"DOTA_Tooltip_ability_charging_taskmaster_shield_stacks"	"叠加层数:"
+
+		"DOTA_Tooltip_ability_winterblight_giga_ice_revenant_passive"	"暴怒之雪"
+		"DOTA_Tooltip_ability_winterblight_giga_ice_revenant_passive_Description"	"向巨大寒冰元素周围敌人放出大量冰弹。"
+		"DOTA_Tooltip_ability_winterblight_giga_ice_revenant_passive_ice_damage" "霜冻伤害:"
+		"DOTA_Tooltip_ability_winterblight_giga_ice_revenant_passive_root_duration"	"缠绕持续时间:"
+		"DOTA_Tooltip_ability_winterblight_giga_ice_revenant_passive_ms_loss"		"移动速度降低:"
+		"DOTA_Tooltip_ability_winterblight_giga_ice_revenant_passive_as_loss"		"攻击速度降低:"
+
+		"DOTA_Tooltip_ability_azalea_boss_passive"					"水晶女王"
+		"DOTA_Tooltip_ability_azalea_boss_passive_Description"		"普通攻击造成aoe伤害并且减速"	
+		"DOTA_Tooltip_ability_azalea_boss_passive_damage_attack_power" "伤害为攻击力%:"
+		"DOTA_Tooltip_ability_azalea_boss_passive_ms_loss"			"移动速度降低:"
+		"DOTA_Tooltip_ability_azalea_boss_passive_nova_damage"		"冰霜新星aoe伤害:"
+
+		"DOTA_Tooltip_modifier_azalea_boss_slow"					"被冷冻"
+
+		"DOTA_Tooltip_ability_azalea_boss_multi_strike"				"螺旋鞭击"
+		"DOTA_Tooltip_ability_azalea_boss_multi_strike_Description"	"跳跃至空中，并且攻击周围的所有敌人。"
+
+		"DOTA_Tooltip_ability_azalea_ice_orb_passive"				"寒冰法球"
+		"DOTA_Tooltip_ability_azalea_ice_orb_passive_Description"	"向施法者周围的敌人放出寒冰法球，同时也向周围随机位置放出寒冰之枪。"
+		"DOTA_Tooltip_ability_azalea_ice_orb_passive_as_loss"		"攻击速度降低:"
+		"DOTA_Tooltip_ability_azalea_ice_orb_passive_ms_loss"		"移动速度降低:"
+		"DOTA_Tooltip_ability_azalea_ice_orb_passive_damage"		"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_heartfreezer_passive"	"极寒心跳"
+		"DOTA_Tooltip_ability_winterblight_heartfreezer_passive_Description"	"周期性的向附近敌人放出一个冰球，冰球击中敌人后会产生爆炸。"
+		"DOTA_Tooltip_ability_winterblight_heartfreezer_passive_damage"			"伤害:"
+		"DOTA_Tooltip_ability_winterblight_heartfreezer_passive_radius"			"范围:"
+		"DOTA_Tooltip_ability_winterblight_heartfreezer_passive_ms_loss"		"移动速度降低:"
+		"DOTA_Tooltip_ability_winterblight_heartfreezer_passive_as_loss"		"攻击速度降低:"
+		"DOTA_Tooltip_ability_winterblight_heartfreezer_passive_atk_power_dmg"	"伤害为攻击力%:"
+
+		"DOTA_Tooltip_modifier_heartfreezer_rooted"					"被缠绕"
+
+		"DOTA_Tooltip_modifier_heartfreezer_slow"					"被冷冻"
+
+		"DOTA_Tooltip_ability_heartfreezer_blink"					"闪烁"
+		"DOTA_Tooltip_ability_heartfreezer_blink_Description"		"传送到目标地点。"
+
+		"DOTA_Tooltip_ability_winterblight_mountain_god_passive"	"山岳震颤者"
+		"DOTA_Tooltip_ability_winterblight_mountain_god_passive_Description"	"跳起落地后对目标地点造成大量伤害。"
+		"DOTA_Tooltip_ability_winterblight_mountain_god_passive_damage"		"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_azheran_passive"			"寒冰之血精髓"
+		"DOTA_Tooltip_ability_winterblight_azheran_passive_Description"	"物理/魔法/纯粹伤害对该单位造成 2 / 5 / 8 点最终伤害。每次受到伤害获得一层状态，当到达8层时产生一个冰霜爆发，对周围敌人造成伤害，伤害等于最后一次对该单位造成伤害的单位和该单位的距离。"
+		"DOTA_Tooltip_ability_winterblight_azheran_passive_as_loss"		"攻击速度降低:"	
+		"DOTA_Tooltip_ability_winterblight_azheran_passive_ms_loss"		"移动速度降低:"
+		"DOTA_Tooltip_ability_winterblight_azheran_passive_damage"		"新星伤害:"
+
+		"DOTA_Tooltip_modifier_iceblood_stack"						"寒冰之血层数"
+
+		"DOTA_Tooltip_ability_orthok_split_attack"					"连锁热情"
+		"DOTA_Tooltip_ability_orthok_split_attack_Description"		"普通攻击会对范围内的所有敌人造成伤害."
+
+		"DOTA_Tooltip_ability_grand_stalacorr_passive"			"沉重之足"
+		"DOTA_Tooltip_ability_grand_stalacorr_passive_Description"	"每0.65秒驱散一次来自敌人的负面状态。在驱散后，获得一个状态，该状态将减少你100移动速度并且减少99.5%的受到的伤害。"
+
+		"DOTA_Tooltip_ability_stalacorr_ice_blast"				"上古震颤"
+		"DOTA_Tooltip_ability_stalacorr_ice_blast_Description"	"对周围造成巨大的振动。"
+		"DOTA_Tooltip_ability_stalacorr_ice_blast_damage"		"伤害:"
+
+		"DOTA_Tooltip_modifier_triboss_powered_up_multiple"	"为所欲为！"
+
+		
+		//雪图怪物名称
+		
+		"winterblight_snowball_kid"								"玩雪球的熊孩子"
+		"winterblight_snowcrab_eggs"							"雪蟹之卵"
+		"winterblight_snow_crab"								"雪蟹"
+		"winterblight_seal"										"凛冬霜枯山脉的海豹"
+		"winterblight_mountain_ogre"							"雪山食人魔"
+		"winterblight_ancient_monolith"							"远古巨石"
+		"winterblight_ice_champion_raxxus"						"冰之斗士拉克索斯"
+		"aggressive_monster"									"邪恶的贾尼克"
+		"mountain_assassin"										"凛冬刺客"
+		"ice_beetle"											"寒冰甲虫"
+		"winterblight_wolf"										"凛冬霜枯之狼"
+		"winterblight_ice_crystal"								"冰霜水晶"
+		"winterblight_living_ice"								"生命之冰"
+		"winterblight_mountain_dweller"							"凛冬霜枯山脉原住民"
+		"frostiok"												"极寒之形"
+		"winterblight_icewrack_marauder"						"残冰掠夺者"
+		"winterblight_chilling_colossus"						"寒冷巨像"
+		"winterblight_norgok_the_ice_rider"						"寒冰骑士诺格"
+		"winterblight_snow_shaker"								"撼地者"
+		"winterblight_frigid_growth"							"极寒梦魇"
+		"winterblight_ice_summoner"								"冰霜召唤者"
+		"winterblight_summon_a"									"熔岩之冰"
+		"winterblight_dashing_swordsman"						"冲刺剑士"
+		"winterblight_mistral_assassin"							"寒风刺客"
+		"winterblight_frost_orchid"								"霜冻之兰"
+		"winterblight_winterbear"								"凛冬之熊"
+		"winterblight_void_spawn"								"虚空"
+		"winterblight_ice_satyr"								"冰萨特"
+		"winterblight_icetaur"									"埃斯特"
+		"winterblight_frostbite_spiderling"						"霜啮蜘蛛"
+		"winterblight_rider_of_azalea"							"阿赛莉娅的骑士"
+		"winterblight_azure_sorceress"							"蔚蓝女巫师"
+		"winterblight_frost_avatar"								"霜冻化身"
+		"winterblight_frost_elemental"							"霜冻元素"
+		"winterblight_frost_frigid_hulk"						"极寒残骸"
+		"winterblight_azalean_priest"							"阿兹赫伦祭祀"
+		"winterblight_azalea_frost_titan"						"霜冻泰坦"
+		"winterblight_dimension_walker"							"维度行者"
+		"winterblight_puck"										"凛冬霜枯山脉精灵"
+		"frost_whelpling"										"寒冰之龙"
+		"winterblight_frost_creep"								"极寒撕咬者"
+		"winterblight_azalea_zealot"							"阿赛莉娅的狂热者"
+		"winterblight_cold_seer"								"极寒贤者"
+		"winterblight_softwalker"								"漫步者"
+		"winterblight_azalea_archer"							"阿赛莉娅弓箭手"
+		"winterblight_maiden_of_azalea"							"阿赛莉娅的侍女"
+		"winterblight_zefnar"									"泽法纳"
+		"winterblight_syphist"									"虹吸者"
+		"winterblight_source_revenant"							"始源幽魂"
+		"winterblight_skater_fiend"								"滑冰恶魔"
+		"winterblight_source_assembly"							"始源之碎片"
+		"winterblight_azalea_highguard"							"阿赛莉娅的崇高守卫"
+		"winterblight_azalea_mindbreaker"						"阿赛莉娅的神蚀者"
+		"azalea_ghost_striker"									"阿赛莉娅的鬼魂推进者"
+		"winterblight_azalea_secret_keeper"						"阿赛莉娅的秘密守卫者"
+		"azalea_thorcrux"										"托普洛克斯"
+		"azalea_spineback"										"脊背"
+		"winterblight_crippling_wraith"							"侵蚀冥魂"
+		"azalea_armored_knight"									"重甲骑士"
+		"winterblight_azalea_chrolonus"							"时间领主"
+		"winterblight_crystal_malefor"							"水晶梅尔芙"
+		"winterblight_candy_crush_blue_spirit"					"蔚蓝水晶之灵"
+		"winterblight_candy_crush_green_spirit"					"翡翠水晶之灵"
+		"winterblight_candy_crush_red_spirit"					"猩红水晶之灵"
+		"winterblight_candy_crush_yellow_spirit"				"黄玉水晶之灵"
+		"winterblight_azalea_spectral_witch"					"幽灵巫师"
+		"winterblight_puck_guard"								"曲棍球守卫"
+		"azalea_air_spirit"										"阿赛莉娅天之精灵"
+		"winterblight_azalea_frost_cruxal"						"冰冻的库鲁修"
+		"winterblight_demon_spirit"								"阿赛莉娅恶魔之魂"
+		"azalea_maze_ghost"										"饥饿的鬼魂"
+		"winterblight_bladewielder"								"剑舞者"
+		"azalea_shrine_megmus"									"梅古莫斯圣坛"
+		"rupthold_the_glutton"									"贪魔拉普斯霍德"
+		"rupthold_ghost"										"拉普斯霍德鬼魂"
+		"azalea_grave_summoner"									"阿塞莉娅庄严召唤者"
+		"winterblight_blue_gargoyle"							"蔚蓝石像鬼"
+		"azalea_dragoon"										"阿塞莉娅之龙"
+		"azalea_knife_scraper"									"飞刃者"
+		"winterblight_buzuki"									"布祖克"
+		"winterblight_azertia"									"阿泽缇娅"
+		"winterblight_torphet"									"托菲尔"
+		"azalea_fencer"											"阿塞莉娅剑圣"
+		"azalea_mystery_pixie"									"神秘皮克希"
+		"pixie_minion"											"皮克希尔"
+		"winterblight_azalea_riftbreaker"						"裂隙撕裂者"
+		"azalea_star_seeker"									"追星者"
+		"azalea_spine_splitter"									"裂脊者"
+		"stargazer_orin"										"观星者奥林"
+		"winter_snow_spirit"									"凛冬雪魂"
+		"azalea_boss"											"冰霜女王阿塞莉娅"
+		"giga_ice_revenant"										"巨大寒冰幽魂"
+		"winterblight_altar_of_ice_apparition"					"寒冰幽魂"
+		"winterblight_heartfreezer"								"心之冰封者"
+		"winterblight_mountain_lord"							"山岳领主"
+		"winterblight_azheran_iceblood"							"寒冰之血阿兹赫伦"
+		"winterblight_orthok_the_damned"						"该死的奥拉斯科"
+		"winterblight_captain_reynar_ghost"						"瑞纳船长"
+		"winterblight_grand_stalacorr"							"大型凛冬岩石巨人"
+		//雪图part2
+
+		"winterblight_scouring_sherpa"							"巡逻山贼"
+		"winterblight_skating_zealot"							"驭冰狂热者"
+		"winterblight_relict"									"雪猿"
+		"ferocious_polar_bear"									"极地拍拍熊"
+		"ice_haunter"											"冰鬼"
+		"winterblight_stone_guardian"							"巨石守卫"
+		"winterblight_merkurio"									"马库里奥"
+		"winterblight_cavern_centaur"							"寒霜半人马"
+		"azalea_mana_null"										"虚空魔灵"
+		"winterblight_blood_wraith"								"鲜血游魂"
+		"winterblight_cavern_ultra_ice"							"极寒幽魂"
+		"drill_digger"											"洞穴挖掘者"
+		"winter_cavern_bat"										"冰穴蝙蝠"
+		"cavern_pantheon_knight"								"神殿骑士"
+		"barbed_husker"											"刺兽"
+		"winterblight_cloaked_phantasm"							"虚掩幻影"
+		"winterblight_boar"										"北境野猪"
+		"winterblight_fungal_shaman"							"真菌萨满"
+		"winterblight_cavern_beguiler"							"诱骗者"
+		"winterblight_corporeal_revenant"						"有形亡魂"
+		"crystarium_heart_slayer"								"摧心射手"
+		"fungal_minion"											"真菌杂兵"
+		"winterblight_skull_hunter"								"骷髅猎人"
+		"reclusive_mundunugu"									"隐居的蒙杜古"
+		"winterblight_crystalist"								"水晶甲虫"
+		"winterblight_zect_rider"								"异虫骑士"
+		"winterblight_mushroom_pixie"							"蘑菇精灵"
+		"crystarium_brood_spider"								"水晶蜘蛛"
+		"winterblight_icixel"									"冰刺虫"
+		"winterblight_toki_toki"								"托基托基"
+		"winterblight_demented_mushroom"						"狂化蘑菇"
+		"winterblight_ghost_of_aurora"							"极光之魂"
+		"winterblight_cavern_bovaur"							"洞穴白牛"
+		"winterblight_icestealer"								"冷冽掠夺者"
+		"winterblight_cavern_overwhelmer"						"虚无巨兽"
+		"winterblight_servant_of_saturn"						"土星之仆"
+		"winterblight_zodiac_oracle"							"十二宫神谕者"
+		"winterblight_cavern_thunderhide"						"雷肤兽"
+		"winterblight_aurora_boss_1"								"奥西罗斯"
+		"winterblight_aurora_boss_2"								"古诺尔夫"
+		"winterblight_aurora_boss_3"								"斯威本"
+		"winterblight_space_shark"								"星空鲨"
+		"winterblight_star_eater"								"噬星者"
+		"winter_bone_blister"									"寒霜巫妖"
+		"winterblight_galaxy_knight"							"银河骑士"
+		"winterblight_frozen_krow"								"冻结飞龙"
+		"winterblight_mind_chatterer"							"思维毁灭者"
+		"winterblight_wintertide_monk"							"寒潮僧侣"
+		"winterblight_winters_chieftain"						"寒冬酋长"
+
+		"DOTA_Tooltip_ability_winterblight_gang_up"				"团结"
+		"DOTA_Tooltip_ability_winterblight_gang_up_Description"	"为每一个周围拥有 团结 技能的单位增加一层强化buff层数，每层都能增加一定的属性."
+		"DOTA_Tooltip_ability_winterblight_gang_up_armor"		"每层增加护甲："
+		"DOTA_Tooltip_ability_winterblight_gang_up_attack_damage_percent"	"% 每层额外攻击力:"
+		"DOTA_Tooltip_ability_winterblight_gang_up_attack_speed"			"每层增加攻击速度:"
+		"DOTA_Tooltip_ability_winterblight_gang_up_movespeed"				"每层增加移动速度:"
+
+		"DOTA_Tooltip_modifier_gangup_stack"					"团结"
+		"DOTA_Tooltip_modifier_gangup_stack_Description"		"为周围拥有 团结 技能的友军提供强化"
+                                
+                                "DOTA_Tooltip_ability_winterblight_damage_sap"			"攻击窃取"
+		"DOTA_Tooltip_ability_winterblight_damage_sap_Description"	"攻击敌人的时候降低其基础攻击力,并且提高自身的攻击力，持续8秒."
+		"DOTA_Tooltip_ability_winterblight_damage_sap_damage_sap"	"攻击力降低:"
+
+		"DOTA_Tooltip_modifier_damage_sap_stack_owner"			"攻击窃取"
+		"DOTA_Tooltip_modifier_damage_sap_stack_owner_Description"	"偷取的攻击力"
+
+		"DOTA_Tooltip_modifier_damage_sap_stack_enemy"			"攻击窃取"
+		"DOTA_Tooltip_modifier_damage_sap_stack_enemy_Description"	"减少的攻击力"
+
+		"DOTA_Tooltip_ability_relict_monkey_leap"				"虚晃跳跃"
+		"DOTA_Tooltip_ability_relict_monkey_leap_Description"	"向目标地点跳跃"
+		"DOTA_Tooltip_ability_relict_monkey_leap_cast_range"	"施法距离:"
+
+		"DOTA_Tooltip_ability_winterblight_ice_vortex_aoe"		"寒气传播"
+		"DOTA_Tooltip_ability_winterblight_ice_vortex_aoe_Description" "生成多个冰天雪地的区域，减速区域内的敌人."
+		"DOTA_Tooltip_ability_winterblight_ice_vortex_aoe_ms_slow"	"移动速度降低:"
+		"DOTA_Tooltip_ability_winterblight_ice_vortex_aoe_as_slow"	"攻击速度降低:"
+
+		"DOTA_Tooltip_modifier_ice_vortex_aoe_slow"				"寒气传播"
+		"DOTA_Tooltip_modifier_ice_vortex_aoe_slow_Description"	"极大地降低攻击速度和移动速度"
+
+		"DOTA_Tooltip_ability_winterblight_rock_guardian_passive" "巨石守卫"
+		"DOTA_Tooltip_ability_winterblight_rock_guardian_passive_Description"	"攻击对目标叠加一层debuff，当debuff到达一定层数时目标将会被眩晕并击退."
+		"DOTA_Tooltip_ability_winterblight_rock_guardian_passive_stacks"		"触发眩晕的debuff层数:"
+
+		"DOTA_Tooltip_modifier_winterblight_rock_tower_stack"	"排斥之力"
+		"DOTA_Tooltip_modifier_winterblight_rock_tower_stack_Description"	"当debuff到达一定层数时将会被眩晕并击退."
+
+		"DOTA_Tooltip_ability_winterblight_merkurio_passive"	"欺诈"
+		"DOTA_Tooltip_ability_winterblight_merkurio_passive_Description"	""
+
+		"DOTA_Tooltip_ability_winterblight_cave_guide_ability"	"遗物召唤"
+		"DOTA_Tooltip_ability_winterblight_cave_guide_ability_Description"	"可以使用饱含力量的遗物碎片召唤远古巨兽."
+
+		"DOTA_Tooltip_ability_winter_centaur_stampede"			"战斗狂热"
+		"DOTA_Tooltip_ability_winter_centaur_stampede_Description"	"强力的咆哮增强了附近友军的决心和战斗力."	
+		"DOTA_Tooltip_ability_winter_centaur_stampede_duration"		"狂热持续时间:"
+		"DOTA_Tooltip_ability_winter_centaur_stampede_atk_pct"		"% 额外攻击力:"	
+		"DOTA_Tooltip_ability_winter_centaur_stampede_ms_bonus"		"额外移动速度:"
+
+		"DOTA_Tooltip_ability_mana_null_spirit_warp"			"精神跃迁"
+		"DOTA_Tooltip_ability_mana_null_spirit_warp_Description"	"通过精神力量的内在爆发，移动至目标地点."
+		"DOTA_Tooltip_ability_mana_null_spirit_warp_cast_range"	"施法距离:"
+
+		"DOTA_Tooltip_ability_winterblight_mana_null_passive"	"法力加护"
+		"DOTA_Tooltip_ability_winterblight_mana_null_passive_Description"	"只要法力值高于0，便不会受到伤害.每次受到伤害法力值都会减少1. .<br>此外，普通攻击将会损毁目标当前法力值的一定百分比并附带基于损毁法力值的额外伤害."
+		"DOTA_Tooltip_ability_winterblight_mana_null_passive_mana_drain_percent"	"% 当前法力值损毁:"
+
+		"DOTA_Tooltip_ability_winterblight_blood_might_passive"		"鲜血渴望"
+		"DOTA_Tooltip_ability_winterblight_blood_might_passive_Description"		"根据附近敌人损失的每点生命值提高攻击力. 根据附近生命值最高的敌人的 % 当前生命值 获得 % 额外攻击力."
+		"DOTA_Tooltip_ability_winterblight_blood_might_passive_attack_damage_pct_pct_of_current_health"	"% 从生命值最高的敌人获取的攻击力:"
+		"DOTA_Tooltip_ability_winterblight_blood_might_passive_attack_damage_per_missing_health"			"根据附近所有敌人损失的每点生命值获得的攻击力:"
+		"DOTA_Tooltip_modifier_blood_might_health_pct_bonus"			"鲜血渴望"
+		"DOTA_Tooltip_modifier_blood_might_health_pct_bonus_Description"	"根据周围敌人的生命值获得额外攻击力."
+
+		"DOTA_Tooltip_ability_curse_of_belial"						"邪恶诅咒"
+		"DOTA_Tooltip_ability_curse_of_belial_Description"			"对目标施加恶魔的诅咒，降低他们百分比的基础攻击力和移动速度。当受恶魔诅咒影响的目标使用技能时，他们会损失最大生命值的一定百分比的血量."
+		"DOTA_Tooltip_ability_curse_of_belial_pct_damage_on_spell_cast"	"% 施法时最大生命值损失:"
+		"DOTA_Tooltip_ability_curse_of_belial_base_attack_damage_reduction"	"% 基础攻击力降低:"
+		"DOTA_Tooltip_ability_curse_of_belial_base_attack_damage_movement_slow"	"% 移动速度降低:"
+		"DOTA_Tooltip_ability_curse_of_belial_base_attack_damage_duration"	"诅咒持续时间:"
+
+		"DOTA_Tooltip_modifier_curse_of_belial"						"邪恶诅咒"
+		"DOTA_Tooltip_modifier_curse_of_belial_Description"			"施法减少生命值. 移动速度和基础攻击力降低."
+
+		"DOTA_Tooltip_ability_winterblight_ultra_ice_passive"		"极寒幽魂被动"
+		"DOTA_Tooltip_ability_winterblight_ultra_ice_passive_Description"	"向所有附近的敌人发射碎冰片。受到冲击的目标受到伤害，并且降低移动速度和攻击速度 ."
+		"DOTA_Tooltip_ability_winterblight_ultra_ice_passive_damage"		"伤害:"
+		"DOTA_Tooltip_ability_winterblight_ultra_ice_passive_ms_loss"		"移动速度损失:"
+		"DOTA_Tooltip_ability_winterblight_ultra_ice_passive_as_loss"		"攻击速度损失:"
+
+		"DOTA_Tooltip_modifier_ultra_ice_enraged"					"暴怒的"
+
+		"DOTA_Tooltip_ability_winterblight_drill_digger_passive"		"螺旋冲击"
+		"DOTA_Tooltip_ability_winterblight_drill_digger_passive_Description"	"攻击叠加 螺旋冲击 buff层数. 当层数到达5时, 下一次攻击会对附近最多5个目标下方触发地震，这些目标会受到攻击力相关的伤害并被眩晕.<br>不会在作用于眩晕的目标时叠加螺旋冲击层数."
+		"DOTA_Tooltip_ability_winterblight_drill_digger_passive_damage_pct_attack_power"	"% 攻击力加入到伤害:"
+		"DOTA_Tooltip_ability_winterblight_drill_digger_passive_quake_radius"				"地震范围:"
+		"DOTA_Tooltip_ability_winterblight_drill_digger_passive_radius"						"最大地震搜索距离:"
+		"DOTA_Tooltip_ability_winterblight_drill_digger_passive_attack_pwr_bonus_per_stack"	"% 每层螺旋冲击buff提供攻击力:"
+		"DOTA_Tooltip_ability_winterblight_drill_digger_passive_max_quakes"					"最大地震:"
+
+		"DOTA_Tooltip_modifier_drill_digger_stack"					"螺旋冲击层数"
+		"DOTA_Tooltip_modifier_drill_digger_stack_Description"		"拥有5层该buff时攻击会触发地震，对附近目标造成伤害并眩晕."
+
+		"DOTA_Tooltip_ability_drill_crusher"						"穿甲"
+		"DOTA_Tooltip_ability_drill_crusher_Description"			"所有物理伤害无视护甲."
+
+		"DOTA_Tooltip_ability_pantheon_deceptive_light"				"狡诈闪光"
+		"DOTA_Tooltip_ability_pantheon_deceptive_light_Description"	"攻击有20%的几率使用眩目的光线致盲目标，造成伤害并将他们缴械."	
+		"DOTA_Tooltip_ability_pantheon_deceptive_light_disarm_duration"	"缴械持续时间:"
+		"DOTA_Tooltip_ability_pantheon_deceptive_light_damage_atk_pwr_pct"	"%基于攻击力的伤害 :"
+
+		"DOTA_Tooltip_modifier_deceptive_light"						"狡诈闪光"
+		"DOTA_Tooltip_modifier_deceptive_light_Description"			"被缴械."	
+
+		"DOTA_Tooltip_ability_husker_dig"							"掘地"
+		"DOTA_Tooltip_ability_husker_dig_Description"				"遁入地下, 进入免疫魔法和攻击的状态.  3.5-4.5秒之后, 移动至目标位置."
+
+		"DOTA_Tooltip_modifier_husker_dig_thinker"					"掘地"
+		"DOTA_Tooltip_modifier_husker_dig_thinker_Description"		"不能移动.免疫攻击和魔法."
+
+		"DOTA_Tooltip_ability_winterblight_tanky"					"硬化"
+		"DOTA_Tooltip_ability_winterblight_tanky_Description"		"极大地减少即将到来的伤害."
+		"DOTA_Tooltip_ability_winterblight_tanky_damage_block"		"% 伤害减少:"
+
+		"DOTA_Tooltip_ability_winter_cavern_spark"					"幻影火花"
+		"DOTA_Tooltip_ability_winter_cavern_spark_Description"		"向前发射3发投射物，使被击中的敌人受到伤害并暂时麻痹。当一目标被连续击中5次时，他会在1秒内对麻痹状态免疫."	
+		"DOTA_Tooltip_ability_winter_cavern_spark_base_damage"		"伤害:"
+		"DOTA_Tooltip_ability_winter_cavern_spark_paralyze_duration"	"麻痹持续时间:"
+		"DOTA_Tooltip_ability_winter_cavern_spark_percent_attack_power"		"% 攻击力加入到额外伤害:"
+
+		"DOTA_Tooltip_modifier_cavern_spark_paralyze"				"幻影火花"
+		"DOTA_Tooltip_modifier_cavern_spark_paralyze_Description"	"被麻痹"
+
+		"DOTA_Tooltip_modifier_merkurio_crystal_red"				"鲜红水晶"
+		"DOTA_Tooltip_modifier_merkurio_crystal_red_Description"	"所有寒霜大厅的怪物增加 500%%的攻击力."
+
+		"DOTA_Tooltip_modifier_merkurio_crystal_blue"				"湛蓝水晶"
+		"DOTA_Tooltip_modifier_merkurio_crystal_blue_Description"	"所有寒霜大厅的怪物获得90%%伤害减免."
+
+		"DOTA_Tooltip_modifier_merkurio_crystal_green"				"翠绿水晶"
+		"DOTA_Tooltip_modifier_merkurio_crystal_green_Description"	"所有寒霜大厅的怪物增加 10%%生命恢复."
+
+		"DOTA_Tooltip_modifier_merkurio_crystal_yellow"				"明黄水晶"
+		"DOTA_Tooltip_modifier_merkurio_crystal_yellow_Description"	"所有寒霜大厅的怪物增加 100%%攻击速度和移动速度."
+
+		"DOTA_Tooltip_modifier_merkurio_crystal_purple"				"暗紫水晶"
+		"DOTA_Tooltip_modifier_merkurio_crystal_purple_Description"	"每过0.9秒, 获得 3层可将伤害降低至0的护盾."
+
+		"DOTA_Tooltip_ability_winterblight_disappearing_act"		"隐身术"
+		"DOTA_Tooltip_ability_winterblight_disappearing_act_Description"	"暂时隐形."
+		"DOTA_Tooltip_ability_winterblight_disappearing_act_duration"		"隐形持续时间:"
+
+		"DOTA_Tooltip_ability_winterblight_confusional_spores"		"混乱孢子"
+		"DOTA_Tooltip_ability_winterblight_confusional_spores_Description"	"在目标区域喷洒孢子云，混淆敌人并使他们的行动指令颠倒."
+		"DOTA_Tooltip_ability_winterblight_confusional_spores_duration"		"持续时间:"
+
+		"DOTA_Tooltip_modifier_confusional_spores"					"混乱孢子"
+		"DOTA_Tooltip_modifier_confusional_spores_Description"		"行动指令颠倒"
+
+		"DOTA_Tooltip_ability_winterblight_tweaking_arrow"			"扭曲之箭"
+		"DOTA_Tooltip_ability_winterblight_tweaking_arrow_Description"	"被扭曲之箭击中的敌人将会被强制向攻击者使用第3个技能，若这个技能没有进入冷却时间."
+
+		"DOTA_Tooltip_ability_winterblight_fungal_minion"			"真菌雾"
+		"DOTA_Tooltip_ability_winterblight_fungal_minion_Description"	"制造毒气云，使敌人减速并造成伤害 ."
+		"DOTA_Tooltip_ability_winterblight_fungal_minion_poison_damage"	"毒气每秒伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_distance_cap_aura"		"狭隘光环"
+		"DOTA_Tooltip_ability_winterblight_distance_cap_aura_Description"	"受此光环影响的敌人，其技能的施法范围受到限制."
+		"DOTA_Tooltip_ability_winterblight_distance_cap_aura_range_cap"	"范围限制:"
+
+		"DOTA_Tooltip_modifier_distance_cap_effect"					"狭隘光环"
+		"DOTA_Tooltip_modifier_distance_cap_effect_Description"		"技能的施法范围受到限制."
+
+		"DOTA_Tooltip_ability_winterblight_spirit_ring"				"摄魂圈"
+		"DOTA_Tooltip_ability_winterblight_spirit_ring_Description"	"以施法者为中心通过膨胀和收缩来自另一个位面的能量冲击敌人的灵魂造成伤害。被击中的敌人会在短时间内减速和沉默."	
+		"DOTA_Tooltip_ability_winterblight_spirit_ring_damage"		"伤害:"
+		"DOTA_Tooltip_ability_winterblight_spirit_ring_slow_and_silence_duration"	"减速和沉默的持续时间:"
+
+		"DOTA_Tooltip_modifier_spirit_ring_slow"					"灵魂冲击"
+		"DOTA_Tooltip_modifier_spirit_ring_slow_Description"		"被减速和沉默"
+
+		"DOTA_Tooltip_ability_winterblight_aeon_shield"				"永生盾"
+		"DOTA_Tooltip_ability_winterblight_aeon_shield_Description"	"当即将受到可使该单位的生命值降低到一个阈值以下的伤害时，将伤害限制到该阈值，并触发一个完全免疫的防护罩."	
+		"DOTA_Tooltip_ability_winterblight_aeon_shield_threshold"	"% 触发阈值:"
+
+		"DOTA_Tooltip_modifier_aeon_shield_charges"					"永生盾充能"
+		"DOTA_Tooltip_modifier_aeon_shield_charges_Description"		"只要有充能，永生盾就可以触发."
+
+		"DOTA_Tooltip_modifier_aeon_shield_active"					"永生盾"
+		"DOTA_Tooltip_modifier_aeon_shield_active_Description"		"完全免疫"
+
+		"DOTA_Tooltip_ability_zect_rider_thunder_strike"			"雷霆之击"
+		"DOTA_Tooltip_ability_zect_rider_thunder_strike_Description"	"用闪电反复击打目标单位，造成伤害并获得目标视野."
+		"DOTA_Tooltip_ability_zect_rider_thunder_strike_strike_interval"	"打击周期:"
+		"DOTA_Tooltip_ability_zect_rider_thunder_strike_strikes"			"打击次数:"
+		"DOTA_Tooltip_ability_zect_rider_thunder_strike_strike_damage"		"每次打击伤害:"
+
+		"DOTA_Tooltip_ability_zect_rider_arc_lightning"				"连锁闪电"
+		"DOTA_Tooltip_ability_zect_rider_arc_lightning_Description"	"对目标发射一束闪电，可跳到其他目标造成伤害 ."
+		"DOTA_Tooltip_ability_zect_rider_arc_lightning_arc_damage"	"伤害:"
+		"DOTA_Tooltip_ability_zect_rider_arc_lightning_radius"		"闪电跳跃搜索距离:"
+		"DOTA_Tooltip_ability_zect_rider_arc_lightning_jump_count"	"跳跃次数"
+		"DOTA_Tooltip_ability_zect_rider_arc_lightning_jump_delay"	"跳跃延迟:"
+
+		"DOTA_Tooltip_ability_zect_rider_lightning_bolt"			"雷击"
+		"DOTA_Tooltip_ability_zect_rider_lightning_bolt_Descriptions"	"用强力的雷击攻击敌人."
+
+		"DOTA_Tooltip_ability_radium_spores"						"放射性孢子"
+		"DOTA_Tooltip_ability_radium_spores_Description"			"对目标敌人施加一个可以降低他们正面buff持续时间的debuff，同时减少他们的攻击力和速度."
+		"DOTA_Tooltip_ability_radium_spores_modifier_duration_reduction"	"% 正面buff持续时间减少:"
+		"DOTA_Tooltip_ability_radium_spores_slow"							"减速持续时间:"
+		"DOTA_Tooltip_ability_radium_spores_curse_duration"					"孢子持续时间:"
+
+		"DOTA_Tooltip_modifier_radium_spores"						"放射性孢子"
+		"DOTA_Tooltip_modifier_radium_spores_Description"			"正面buff持续时间降低"
+
+		"DOTA_Tooltip_radium_spores_slow"						"放射性孢子减速"
+		"DOTA_Tooltip_radium_spores_slow_Description"			"降低攻击力，移动速度和攻击速度"
+
+		"DOTA_Tooltip_ability_icicle_barrage"					"冰锥弹幕"
+		"DOTA_Tooltip_ability_icicle_barrage_Description"		"向目标投掷冰锥，造成伤害并减速范围内的敌人。当一个敌人被击中时，会对他们施加一层冰锥弹幕层数, 之后的冰锥弹幕会根据此层数对目标投射额外的冰锥."
+		"DOTA_Tooltip_ability_icicle_barrage_max_stacks"		"最大冰锥层数:"
+		"DOTA_Tooltip_ability_icicle_barrage_damage"			"伤害:"
+		"DOTA_Tooltip_ability_icicle_barrage_ms_loss"			"移动速度减少:"
+		"DOTA_Tooltip_ability_icicle_barrage_as_loss"			"攻击速度减少:"
+
+		"DOTA_Tooltip_modifier_icicle_barrage_stacks"			"冰锥弹幕层数"
+		"DOTA_Tooltip_modifier_icicle_barrage_stacks_Description"	"对这个单位投射额外的冰锥"
+
+		"DOTA_Tooltip_winterblight_shroom_procurement"			"真菌爆炸"
+		"DOTA_Tooltip_winterblight_shroom_procurement_Description"	"在施法者周围随机产生不稳定的真菌。当真菌数量达到临界值时，会爆炸并产生一团毒云，同时产生混乱孢子并造成沉默."
+		"DOTA_Tooltip_winterblight_shroom_procurement_damage_per_tick"	"毒云伤害:"	
+
+		"DOTA_Tooltip_modifier_shroom_procure_aura"				"真菌孢子"
+		"DOTA_Tooltip_modifier_shroom_procure_aura_Description"	"减速、沉默和移动指令反转."
+
+		"DOTA_Tooltip_ability_winterblight_demented_mushroom_passive"	"不稳定真菌"
+		"DOTA_Tooltip_ability_winterblight_demented_mushroom_passive_Description"	"在施法者周围发射有毒的黏液，减缓敌人的攻击速度."
+		"DOTA_Tooltip_ability_winterblight_demented_mushroom_passive_damage"		"伤害:"
+
+		"DOTA_Tooltip_modifier_demented_mushroom_slow"					"不稳定真菌"
+		"DOTA_Tooltip_modifier_demented_mushroom_slow_Description"		"极大减缓移动速度"
+
+		"DOTA_Tooltip_ability_three_perceptions"						"三重感知"
+		"DOTA_Tooltip_ability_three_perceptions_Description"			"对未来幻象的一瞥使施法者有能力进行3次特殊攻击，攻击可移动施法者并将被攻击者眩晕和击退.在攻击过程中施法者魔法免疫 ."
+		"DOTA_Tooltip_ability_three_perceptions_attacks"				"攻击:"
+		"DOTA_Tooltip_ability_three_perceptions_bonus_damage"			"额外伤害:"
+		"DOTA_Tooltip_ability_three_perceptions_stun_duration"			"眩晕时间:"
+
+		"DOTA_Tooltip_ability_winterblight_gravekeeper"					"守墓者"
+		"DOTA_Tooltip_ability_winterblight_gravekeeper_Description"		"对同一目标的连续攻击会增强你能力并消耗它的活力.每层提高10%你造成的所有税前伤害，同时吸取它3移动速度。更改攻击目标移除所有层数。无论攻击速度有多快，这个效果1秒内最多叠加 <font color='#ccff66'>8</font>层"
+		//same tooltip as gravekeeper gauntlet
+
+		"DOTA_Tooltip_ability_winterblight_frost_overwhelming"			"寒冰内核"
+		"DOTA_Tooltip_ability_winterblight_frost_overwhelming_Description"	"在死亡时，这个单位的绝对冻结核心的寒气被释放。能量真空将冻结所有附近的盟友，使他们在一段时间内免疫伤害并恢复最大生命值的%."
+		"DOTA_Tooltip_ability_winterblight_frost_overwhelming_radius"		"范围:"	
+
+		"DOTA_Tooltip_ability_winterblight_giant_snow_crab_passive"		"大闸蟹"
+		"DOTA_Tooltip_ability_winterblight_giant_snow_crab_passive_Description"	"这是只大闸蟹."
+
+		"DOTA_Tooltip_ability_winterblight_dome_of_aquarius"			"宝瓶座穹顶"
+		"DOTA_Tooltip_ability_winterblight_dome_of_aquarius_Description"	"天体知识的流动形成了一个球状遮罩。当施法者和他的盟友站在穹顶内时，他们对穹顶外的攻击免疫."
+		"DOTA_Tooltip_ability_winterblight_dome_of_aquarius_duration"	"持续时间:"
+		"DOTA_Tooltip_ability_winterblight_dome_of_aquarius_radius"		"范围:"
+
+		"DOTA_Tooltip_ability_ability_unshakable"								"不可动摇"
+		"DOTA_Tooltip_ability_ability_unshakable_Description"					"所有敌人施加的debuff持续时间将被大幅度减少."
+		"DOTA_Tooltip_ability_ability_unshakable_modifier_duration_reduction"	"% debuff持续时间减少:"
+
+		"DOTA_Tooltip_ability_winterblight_space_shark_passive"					"最终捕食者"
+		"DOTA_Tooltip_ability_winterblight_space_shark_passive_Description"		"攻击一个敌人对其施加一个可叠加的buff。一旦达到5层时自身将蜕变为最终捕食者，获得巨大的攻击力和一击必杀的能力。一击必杀效果只对英雄有效 ."
+		"DOTA_Tooltip_ability_winterblight_space_shark_passive_damage_bonus_per_stack"	"%每层buff增加攻击力:"
+		"DOTA_Tooltip_ability_winterblight_space_shark_passive_duration"				"buff持续时间:"	
+		"DOTA_Tooltip_ability_winterblight_space_shark_passive_damage_bonus_full_shark"	"% 最终捕食者状态下额外攻击力:"
+
+		"DOTA_Tooltip_modifier_space_shark_stacks"									"捕食者蜕变"
+		"DOTA_Tooltip_modifier_space_shark_stacks_Description"						"获得额外攻击力. 叠加5层后蜕变为最终捕食者."
+
+		"DOTA_Tooltip_modifier_space_shark_full"									"最终捕食者"
+		"DOTA_Tooltip_modifier_space_shark_full_Description"						"攻击力巨幅提高. 对英雄一击必杀."
+
+		"DOTA_Tooltip_ability_winterblight_bone_blister_passive"					"寒霜爆发"
+		"DOTA_Tooltip_ability_winterblight_bone_blister_passive_Description"		"每隔一段时间，就会在施法者附近的任意位置产生一次冰爆。随着这个单位生命值的下降，爆炸的频率将会增加 ."
+		"DOTA_Tooltip_ability_winterblight_bone_blister_passive_damage"				"伤害:"
+		"DOTA_Tooltip_ability_winterblight_bone_blister_passive_ms_loss"			"移动速度降低:"
+		"DOTA_Tooltip_ability_winterblight_bone_blister_passive_as_loss"			"攻击速度降低:"
+	
+		"DOTA_Tooltip_ability_winterblight_astral_weapon"							"星体武器"
+		"DOTA_Tooltip_ability_winterblight_astral_weapon_Description"				"攻击会根据目标的最大生命值造成额外的纯粹伤害 ."
+		"DOTA_Tooltip_ability_winterblight_astral_weapon_damage_pct_target_max_health"	"% 最大生命值的纯粹伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_star_eater_passive"						"卫星激光炮"
+		"DOTA_Tooltip_ability_winterblight_star_eater_passive_Description"			"精确的激光在施法者周围旋转射击。激光与施法者的距离会根据附近敌人的位置进行调整."
+		"DOTA_Tooltip_ability_winterblight_star_eater_passive_damage"				"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_galaxy_knight_passive"					"外显子幻象"
+		"DOTA_Tooltip_ability_winterblight_galaxy_knight_passive_Description"		"受到的任何伤害都会对攻击者造成伤害和冻结."
+		"DOTA_Tooltip_ability_winterblight_galaxy_knight_passive_damage"			"伤害:"
+		"DOTA_Tooltip_ability_winterblight_galaxy_knight_passive_damage_freeze_duration"	"冻结时间:"
+
+		"DOTA_Tooltip_modifier_galaxy_knight_freeze"								"外显子幻象"
+		"DOTA_Tooltip_modifier_galaxy_knight_freeze_Description"					"冻结"
+
+		"DOTA_Tooltip_ability_ellipsis_wave"										"抹除光波"
+		"DOTA_Tooltip_ability_ellipsis_wave_Description"							"向前发射光波，对敌人造成的伤害并缴械 ."
+		"DOTA_Tooltip_ability_ellipsis_wave_damage"									"伤害:"
+		"DOTA_Tooltip_ability_ellipsis_wave_disarm_duration"						"缴械时间:"
+
+		"DOTA_Tooltip_modifier_ellipsis_wave_disarm"								"抹除光波"
+		"DOTA_Tooltip_modifier_ellipsis_wave_disarm_Description"					"缴械"
+
+		"DOTA_Tooltip_ability_winterblight_brain_freeze"							"思维冻结"
+		"DOTA_Tooltip_ability_winterblight_brain_freeze_Description"				"创建一个小区域，使进入的敌人沉默."
+		"DOTA_Tooltip_ability_winterblight_brain_freeze_duration"					"持续时间:"
+
+		"DOTA_Tooltip_modifier_brain_freeze"										"思维冻结"
+		"DOTA_Tooltip_modifier_brain_freeze_Description"							"被沉默"
+
+		"DOTA_Tooltip_ability_winterblight_wintertide_totem_base"					"寒潮图腾"
+		"DOTA_Tooltip_ability_winterblight_wintertide_totem_base_Description"		"在目标位置创建图腾，以治疗其半径内的敌人 . 图腾受到3次攻击摧毁."
+		"DOTA_Tooltip_ability_winterblight_wintertide_totem_base_heal_percent"		"% 每0.5秒治疗:"
+		"DOTA_Tooltip_ability_winterblight_wintertide_totem_base_duration"			"持续时间:"
+
+		"DOTA_Tooltip_ability_gigarraun_fissure"									"超核裂变"
+		"DOTA_Tooltip_ability_gigarraun_fissure_Description"						"一条长长的裂缝形成一道不可移动的墙。被初始裂缝击中的敌人会受到伤害并被震晕 ."	
+		"DOTA_Tooltip_ability_gigarraun_fissure_fissure_range"						"范围:"
+		"DOTA_Tooltip_ability_gigarraun_fissure_fissure_duration"					"裂缝持续时间:"
+		"DOTA_Tooltip_ability_gigarraun_fissure_fissure_radius"						"眩晕范围:"
+		"DOTA_Tooltip_ability_gigarraun_fissure_stun_duration"						"眩晕时间:"
+
+		"DOTA_Tooltip_ability_tiamat_scorch_charge"									"巨龙冲击"
+		"DOTA_Tooltip_ability_tiamat_scorch_charge_Description"						"冲向目标位置，留下一条布满极致烈焰的道路 ."
+
+		"DOTA_Tooltip_ability_tiamat_fire_breath"									"极致烈焰"
+		"DOTA_Tooltip_ability_tiamat_fire_breath_Description"						"提亚马特的绚丽吐息在目标位置产生一团火焰."
+		"DOTA_Tooltip_ability_tiamat_fire_breath_damage"							"伤害:"
+
+		"DOTA_Tooltip_ability_winterblight_tiamat_frost_attack"						"钻石星辰击"
+		"DOTA_Tooltip_ability_winterblight_tiamat_frost_attack_Description"			"提亚马特的攻击会在目标周围造成冰冷的AOE伤害，造成纯粹伤害并减慢移动速度."
+		"DOTA_Tooltip_ability_winterblight_tiamat_frost_attack_damage"				"伤害:"
+		"DOTA_Tooltip_ability_winterblight_tiamat_frost_attack_ms_loss"				"移动速度降低:"
+
+		"DOTA_Tooltip_ability_realm_breaker_radeon_orbit"							"轨道弹珠"
+		"DOTA_Tooltip_ability_realm_breaker_radeon_orbit_Description"				"宇宙火花寻找附近的敌人并在撞击中在目标之间反弹."
+		"DOTA_Tooltip_ability_realm_breaker_radeon_orbit_damage"					"伤害:"
+		"DOTA_Tooltip_ability_realm_breaker_radeon_orbit_base_bounces"				"最大反弹次数:"
+
+"winterblight_cavern"										"凛冬霜枯洞穴"
+		"winterblight_cavern_guide"									"洞穴指引者"
+		"star_wb_master_title"										"洞穴之主"
+
+		"winterblight_cavern_help1"									"选择一个密室查看挑战列表。一次只有一个挑战可以在每个密室中激活。怪物不能离开自己的密室，也不会受到来自外面的伤害。只有发起挑战的玩家才能在这里伤害怪物 ."
+		"winterblight_cavern_help2"									"从下面的列表中选择一个挑战。完成一个挑战提供可以用来召唤boss的遗物碎片。每局游戏的遗物碎片都会重置."
+		"winterblight_cavern_help3"									"选择一个挑战级别。您只能为此挑战选择一个等于或小于1+此英雄的最高通关级别。更高的挑战级别可以奖励更多的秘银水晶，并获得一些更稀有的物品."
+		"winterblight_cavern_help4"									"你的遗物碎片可以用来召唤曾在过去的几个世纪里统治过这座雪山的远古巨兽."
+
+		"winterblight_cavern_room1"									"寒霜大厅"
+		"winterblight_cavern_room2"									"极光长廊"
+		"winterblight_cavern_room3"									"水晶之地"
+		"winterblight_cavern_room4"									"凛冬边界"
+
+		"winterblight_cavern_boss_button_label"						"召唤Boss"
+		"winterblight_cavern_boss_summary"							"@boss_name's 的级别由@chamber_name 的平均通关级别决定. 在这个密室中至少完成一个事件才能召唤boss"
+		"winterblight_realm_breaker"								"王国破坏者"
+		"winterblight_cavern_boss_tiamat"							"提亚马特"
+
+		"winterblight_realm_breaker_summary"						"王国破坏者的等级由所有密室事件的平均通关等级决定."
+
+		"winterblight_cavern_final_boss_summary"					"提亚马特的等级由其他4个boss的平均等级决定。提亚马特只能在所有4个首领都被击败后才能被召唤。这是最后一次召唤，洞穴引导者随后会离开。 ."
+
+		"winterblight_boss_status1"									"已召唤"
+		"winterblight_boss_status2"									"已击败"
+
+		"winterblight_cavern_room1_event1"							"标准模式"
+		"winterblight_cavern_room1_event1_description"				"你将与大量普通的怪物交战."
+
+		"winterblight_cavern_room1_event2"							"极寒幽魂歼灭战"
+		"winterblight_cavern_room1_event2_description"				"密室中将会出现若干只极寒幽魂."
+
+		"winterblight_cavern_room1_event3"							"维度之门"
+		"winterblight_cavern_room1_event3_description"				"敌人的浪潮从维度之门产生。所有敌人根据事件等级获得每级1%每秒的生命回复，上限为20% ."
+
+		"winterblight_cavern_room1_event4"							"马库里奥的水晶争夺战"
+		"winterblight_cavern_room1_event4_description"				"5颗水晶将会增幅马库里奥召唤出的怪物的能力.对水晶造成伤害可使指定颜色的增幅暂时消失20秒."
+
+		"winterblight_cavern_room2_event1"							"标准模式"
+		"winterblight_cavern_room2_event1_description"				"你将与大量普通的怪物交战."
+
+		"winterblight_cavern_room2_event2"							"维度之门"
+		"winterblight_cavern_room2_event2_description"				"敌人的浪潮从维度之门产生. 所有敌人根据事件等级获得每级10% 移动速度和 5%攻击速度."
+
+		"winterblight_cavern_room2_event3"							"剿灭雷肤兽"
+		"winterblight_cavern_room2_event3_description"				"巨大的雷肤兽的蛋布满了整个密室. 蛋中孵化出的雷肤兽拥有随机且强大的被动技能."
+
+		"winterblight_cavern_room2_event4"							"巨兽之怒"
+		"winterblight_cavern_room2_event4_description"				"击败房间中的三只巨兽，奥西罗斯、古诺尔夫和斯威本."
+
+		"winterblight_cavern_room3_event1"							"标准模式"
+		"winterblight_cavern_room3_event1_description"				"你将与大量普通的怪物交战."
+
+		"winterblight_cavern_room3_event2"							"维度之门"
+		"winterblight_cavern_room3_event2_description"				"敌人的浪潮从维度之门产生. 所有敌人根据事件等级获得每级10% 的攻击力."
+
+		"winterblight_cavern_room3_event3"							"疯狂的蘑菇"
+		"winterblight_cavern_room3_event3_description"				"疯狂的蘑菇在整个水晶之地中繁殖。整个密室都被混乱的孢子污染了."
+
+		"winterblight_cavern_room3_event4"							"深海侵袭"
+		"winterblight_cavern_room3_event4_description"				"这个密室被洪水淹没，被来自遥远的失落深海要塞的生物入侵。当一个怪物死了，会立刻孵化出下一只."
+
+		"winterblight_cavern_room4_event1"							"标准模式"
+		"winterblight_cavern_room4_event1_description"				"你将与大量普通的怪物交战."
+
+		"winterblight_cavern_room4_event2"							"维度之门"
+		"winterblight_cavern_room4_event2_description"				"敌人的浪潮从维度之门产生. 所有敌人根据挑战等级获得每级100 护甲和 2% 闪避."
+
+		"winterblight_cavern_room4_event3"							"克洛诺斯的复仇 "
+		"winterblight_cavern_room4_event3_description"				"数以百计的克洛诺斯克隆体从密室的黑星中产生. 同时存在的敌人数量根据密室挑战等级提高，每2级增加1个."
+
+		"winterblight_cavern_room4_event4"							"反重力"
+		"winterblight_cavern_room4_event4_description"				"黑洞会产生各种各样的敌人，并把英雄拉向它. 所有单位和英雄的技能都只有1秒的冷却时间."
+
+
+		"winterblight_cavern_status_prefix"								"状态:"
+		"winterblight_cavern_status_inactive"								"未开启"
+		"winterblight_cavern_status_active"								"进行中"
+
+		"winterblight_cavern_fragments"								"遗物碎片:"
+
+		"winterblight_1_stone"										"传说 使用1个凛冬冰川"
+		"winterblight_2_stone"										"传说 使用2个凛冬冰川"
+		"winterblight_3_stone"										"传说 使用3个凛冬冰川"
+
+		"winterblight_no_max"										"无上限"
+		"winterblight_event_max_yours"								"你的英雄的挑战等级"
+		"winterblight_event_max"									"最大挑战等级"	
+		"event_level_input"											"选择这次挑战的强度级别"
+		"start_chamber_event"										"开始密室挑战"
+
+		"cavern_record_yours_hero"									"你的最高纪录 当使用"
+		"cavern_record_yours_all"									"你最高的全期纪录"
+		"cavern_record_global_hero"									"全球最高纪录 当使用"	
+		"cavern_record_global_all"									"全球最高纪录"
+		"cavern_ui_failed"											"失败"		
+		"cavern_ui_completed"										"完成"	
+		"cavern_ui_no_record"										"无纪录"	
+		

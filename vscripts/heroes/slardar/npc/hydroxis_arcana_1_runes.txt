@@ -1,0 +1,110 @@
+
+	"hydroxis_rune_w_1_arcana1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"hydroxis/hydroxis_rune_w_1_arcana1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_PHYSICAL"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% HYDROXIS_ARCANA_W1_SPLASH_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"2"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"14"
+			}
+		}
+	}
+
+	"hydroxis_rune_w_2_arcana1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"hydroxis/hydroxis_rune_w_2_arcana1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_PHYSICAL"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% HYDROXIS_ARCANA_W2_ATTACK_TO_DMG %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"2"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"14"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_two"			"2"
+			}
+		}
+	}
+
+	"hydroxis_rune_w_3_arcana1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"hydroxis/hydroxis_rune_w_3_arcana1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% HYDROXIS_ARCANA_W3_POST_MITI_PCT %>"
+			}
+		}
+	}
+
+	"hydroxis_rune_w_4_arcana1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"hydroxis/hydroxis_rune_w_4_arcana1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% HYDROXIS_ARCANA_W4_MIST_DURATION %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one_base"			"<% HYDROXIS_ARCANA_W4_MIST_DURATION_BASE %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% HYDROXIS_ARCANA_W4_BASE_ATTACK %>"
+			}
+		}
+	}
+

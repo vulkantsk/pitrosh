@@ -1,0 +1,450 @@
+
+	"solunia_rune_q_1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_q_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_Q1_DMG_PER_ATT_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"base_ability"			"<% SOLUNIA_Q1_PUSH_FORCE %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"1"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"8"
+			}
+		}
+	}
+
+	"solunia_rune_q_2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_q_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_Q2_BASE_ATTACK %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SOLUNIA_Q2_BONUS_ATTACK_PCT %>"
+			}
+		}
+	}
+
+	"solunia_rune_q_3"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_q_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_Q3_CURRENT_HP_BONUS_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SOLUNIA_Q3_MISSING_HP_BONUS_PCT %>"
+			}
+		}
+	}
+
+	"solunia_rune_q_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_q_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_Q4_COSMIC_AMP_PCT %>"
+			}
+		}
+	}
+
+	"solunia_rune_w_1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_w_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_W1_CRIT_CHANCE %>"
+			}	
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one_base"			"<% SOLUNIA_W1_CRIT_CHANCE_BASE %>"
+			}			
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SOLUNIA_W1_CRIT_DAMAGE_PCT %>"
+			}
+		}
+	}
+
+	"solunia_rune_w_2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_w_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_W2_DMG_AMP %>"
+			}
+		}
+	}
+
+	"solunia_rune_w_3"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_w_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_W3_ATTACK_TO_DMG_PCT %>"
+			}
+		}
+	}
+
+	"solunia_rune_w_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"spectre_haunt"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_W4_BONUS_DAMAGE_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SOLUNIA_W4_DURATION %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two_base"		"<% SOLUNIA_W4_DURATION_BASE %>"
+			}
+		}
+	}
+
+	"solunia_rune_e_1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_e_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_E1_EXPLOSION_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one_base"		"<% SOLUNIA_E1_EXPLOSION_PCT_BASE %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SOLUNIA_E1_STUN_DUR %>"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"8"
+			}
+		}
+	}
+
+	"solunia_rune_e_2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_e_2"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_E2_EXPLOSION_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SOLUNIA_E2_STUN_DUR %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"8"
+			}
+		}
+	}
+
+	"solunia_rune_e_3"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_e_3"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one_base"			"<% SOLUNIA_E3_DUR_BASE %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_E3_DUR %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SOLUNIA_E3_POST_MITI_PCT %>"
+			}
+		}
+	}
+
+	"solunia_rune_e_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_e_4"
+
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_E4_HP %>"
+			}
+		}
+		"Modifiers"
+		{
+			"modifier_solunia_rune_e_4_passive"
+			{
+				"Passive"			"1"
+				"IsHidden"			"1"
+				"IsDebuff"			"0"
+				"Attributes"		"MODIFIER_ATTRIBUTE_PERMANENT"
+				"ThinkInterval"  	"2"
+				"OnIntervalThink"
+				{
+					"RunScript"
+					{
+						"ScriptFile"	"heroes/vengeful_spirit/warp_flare.lua"
+						"Function"		"rune_unit_4_think"
+					}
+				}
+			}
+			"modifier_solunia_rune_e_4_effect"
+			{
+				"IsBuff"	"1"
+				"IsHidden"	"1"
+			}
+		}
+	}
+
+	"solunia_rune_r_1"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_1"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_R1_HP %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SOLUNIA_R1_HP %>"
+			}
+		}
+	}
+
+	"solunia_rune_r_2"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_2"
+		"MaxLevel"				"20"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_R2_DMG_PER_DMG * 100 %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SOLUNIA_R2_DUAL_BURN_AMP * 100 %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"8"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_two"			"2"
+			}
+		}
+	}
+
+	"solunia_rune_r_3"
+	{
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_3"
+		"MaxLevel"				"20"
+		"AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+		"LevelsBetweenUpgrades" "0"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_one"			"<% SOLUNIA_R3_WAVE_DMG_PCT %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two"			"<% SOLUNIA_R3_RANGE %>"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"property_two_base"		"<% SOLUNIA_R3_RANGE_BASE %>"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"element_one"			"8"
+			}
+		}
+	}
+
+	"solunia_rune_r_4"
+	{
+		// General
+		//-------------------------------------------------------
+		"BaseClass"				"ability_datadriven"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellImmunityType"		"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityTextureName"	"solunia/solunia_rune_r_4"
+		"MaxLevel"				"20"
+		"LevelsBetweenUpgrades" "0"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_one"			"<% SOLUNIA_R4_CD_RED %>"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"property_two"			"<% SOLUNIA_R4_ADD_DMG_PER_ATTR %>"
+			}
+		}
+	}
+
